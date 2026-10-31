@@ -14,7 +14,7 @@
 | Explorer | Clusters, search, details, heatmap, category filters, analytics, dataset audit, fit/reset and no horizontal overflow |
 | Error paths | Dataset 503 and successful retry; geolocation denial; empty search and reset |
 | Export | Downloaded filtered GeoJSON parsed and verified to contain exactly 467 hospitals |
-| GitHub CI | Workflow prepared; hosted execution pending repository publication |
+| GitHub CI | [Hosted run passed](https://github.com/SamiSiddiqui45/karachi-pulse/actions/runs/41189068837): Python tests, frontend tests, lint, build and browser tests |
 
 Live app: https://main.d1tsz0y1oa0yn.amplifyapp.com
 

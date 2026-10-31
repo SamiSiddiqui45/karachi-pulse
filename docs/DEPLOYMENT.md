@@ -10,7 +10,7 @@ Renew the `karachi-pulse` AWS profile, run `prepare`, build and test the fronten
 
 Public source is published at https://github.com/SamiSiddiqui45/karachi-pulse . Use the authenticated GitHub CLI and the existing origin remote for subsequent pushes. Environment files, AWS state and credentials are ignored. Processed ODbL data is distributed intentionally with attribution.
 
-`.github/workflows/ci.yml` runs Python tests, frontend tests, lint, build and Edge desktop/mobile browser tests on Windows. Hosted CI execution remains unverified until the first GitHub run succeeds. It does not deploy AWS resources; the existing Amplify app has no automatic GitHub connection.
+`.github/workflows/ci.yml` runs Python tests, frontend tests, lint, build and Edge desktop/mobile browser tests on Windows. Hosted CI execution [passed](https://github.com/SamiSiddiqui45/karachi-pulse/actions/runs/41189068837) on GitHub. It does not deploy AWS resources; the existing Amplify app has no automatic GitHub connection.
 
 ## Dataset updates
 
