@@ -12,14 +12,14 @@ Karachi Pulse turns a genuine OpenStreetMap-derived healthcare registry into an 
 **AWS integration:** Amazon Location Service supplies the managed named-map basemap; real style and tile requests were verified in public-site desktop and mobile tests. Private Amazon S3 stores a reproducible content-addressed processed snapshot, consumed at build time. Amplify Hosting serves the public frontend without exposing account credentials.
 
 **Public live URL:** https://main.d1tsz0y1oa0yn.amplifyapp.com
-**Public GitHub URL:** Pending; no remote configured or push performed.
+**Public GitHub URL:** https://github.com/SamiSiddiqui45/karachi-pulse
 **Demo video:** Pending; [2:40 script](DEMO_SCRIPT.md) prepared.
 
 ## Submission gates
 
 - Local app, genuine data, reproducible ETL, tests and production build: completed.
 - Real Amazon Location basemap demonstrated: verified in desktop and mobile browser tests. Prior S3 verification is recorded in LIVE_DEPLOYMENT.md; session renewal is needed to rerun it.
-- Public application verified. Public GitHub publication: pending authentication; encouraged and optional under the supplied brief.
+- Public application verified. Public GitHub repository published; encouraged and optional under the supplied brief.
 - Video recorded and reviewed under three minutes: pending.
 - Current official challenge rules, eligibility, deadline and exact submission format: pending verification. Research of accessible official Builder Center pages did not establish the full “Weekend Challenge: Map it” terms. The requirements in the user’s brief are treated as the project brief, not as verified official rules.
 

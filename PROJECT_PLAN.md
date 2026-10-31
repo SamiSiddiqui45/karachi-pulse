@@ -15,4 +15,4 @@ Environment: Node 24/npm 11, Git, bundled Python runtime and GitHub CLI. The pro
 - Tested: 13 Python tests, 8 frontend tests, 8 live and 8 local production browser scenarios, TypeScript, production build and lint. Production dependency audit passes; moderate development dependency findings remain documented.
 - Completed: architecture, dataset, deployment, attribution, screenshots, submission draft and demo script.
 - Verified: public Amplify app and actual Amazon Location styles and tiles. Prior S3 checks are recorded in docs/LIVE_DEPLOYMENT.md.
-- Pending: AWS session renewal and deployment of current local fixes, GitHub authentication/publication, public demo video and eligibility review. See docs/VERIFICATION.md for evidence and limits.
+- Pending: AWS session renewal and deployment of current local fixes, public demo video and eligibility review. See docs/VERIFICATION.md for evidence and limits.

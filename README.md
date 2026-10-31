@@ -8,7 +8,7 @@ Karachi’s facility data is scattered and unevenly documented. Pulse turns a re
 
 ## Status
 
-**Live on AWS:** https://main.d1tsz0y1oa0yn.amplifyapp.com . Real Amazon Location styles and tiles were verified in desktop and mobile browsers. See [live deployment](docs/LIVE_DEPLOYMENT.md). The local revision contains additional validation fixes; publishing it requires AWS session renewal. Public GitHub publication and a public demo video remain pending.
+**Live on AWS:** https://main.d1tsz0y1oa0yn.amplifyapp.com . Real Amazon Location styles and tiles were verified in desktop and mobile browsers. See [live deployment](docs/LIVE_DEPLOYMENT.md). The local revision contains additional validation fixes; publishing it requires AWS session renewal. Public code: https://github.com/SamiSiddiqui45/karachi-pulse . A public demo video remains pending.
 
 ## Features
 

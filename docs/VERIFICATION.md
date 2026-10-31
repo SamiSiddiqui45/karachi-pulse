@@ -28,7 +28,7 @@ The full audit reports moderate development-tool dependency findings associated 
 
 ## Limits
 
-Mobile testing is viewport emulation, not physical iOS Safari. Live GPS, real-world facility operations and exhaustive accessibility testing are not claimed. Prior S3 verification is recorded in LIVE_DEPLOYMENT.md; the AWS session expired during this review, preventing current management API checks and redeployment until reauthentication. GitHub publication requires browser authentication. A public demo video and challenge entry have not been created.
+Mobile testing is viewport emulation, not physical iOS Safari. Live GPS, real-world facility operations and exhaustive accessibility testing are not claimed. Prior S3 verification is recorded in LIVE_DEPLOYMENT.md; the AWS session expired during this review, preventing current management API checks and redeployment until reauthentication. GitHub publication completed: https://github.com/SamiSiddiqui45/karachi-pulse . A public demo video and challenge entry have not been created.
 
 ## Reproduce
 
