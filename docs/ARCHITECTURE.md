@@ -9,16 +9,16 @@ flowchart LR
   V --> Q[Audit report and rejection ledger]
   V --> G[Processed GeoJSON]
   G --> B[Bundled genuine frontend snapshot]
-  G -. authenticated optional upload .-> S3[Private Amazon S3]
-  S3 -. short-lived read URL .-> R[React / TypeScript dashboard]
+  G --> S3[Private Amazon S3]
+  S3 -->|verified build-time snapshot| B
   B --> R
-  A[AWS Amplify Hosting - prepared, not deployed] -. serves .-> R
-  L[Amazon Location map - configuration required] -. restricted API key .-> M[MapLibre GL JS]
+  A[AWS Amplify Hosting] -->|serves| R
+  L[Amazon Location map] -->|restricted public API key| M[MapLibre GL JS]
   R --> M
   R --> N[Turf distances / filtered aggregates]
 ```
 
-Solid lines are the locally exercised data flow; dotted AWS paths are implemented or prepared but not exercised without credentials.
+The public AWS app and real map styles/tiles are browser-verified. S3 integration checks are recorded in LIVE_DEPLOYMENT.md. Production bundles the verified S3 snapshot at build time; short-lived signed reads are only an optional development mode.
 
 ## Design decisions
 

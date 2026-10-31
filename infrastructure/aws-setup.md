@@ -1,6 +1,6 @@
 # AWS setup: credentialed operator runbook
 
-**No AWS resources have been provisioned.** `aws sts get-caller-identity` returned `NoCredentials` during implementation. Use your approved AWS CLI sign-in/profile; do not paste secret keys into chat or frontend configuration. This runbook creates only project-specific resources after you authenticate and choose unique names. Never delete resources or change unrelated existing resources.
+**Existing resources are recorded in [LIVE_DEPLOYMENT.md](../docs/LIVE_DEPLOYMENT.md).** Use the existing `karachi-pulse` profile and deployment helper for this app. The manual steps below are for a fresh independent setup; inspect existing resources first. Do not paste secret keys into chat or frontend configuration. Never delete resources or change unrelated existing resources.
 
 ## 1. Inspect before creating
 
