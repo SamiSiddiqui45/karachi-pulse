@@ -1,0 +1,1005 @@
+id,longitude,latitude,name,category,source_type,address,operator,beds,emergency,osm_id,source_url
+5147825920,67.064846,24.898128,Karim Bux Nursing Hostal,Hospital,hospital,,,,,5147825920,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026894,67.056008,24.864497,Moosani Dental Surgery,Clinic,clinic,,,,,5133026894,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5146930683,67.075686,24.934709,Aga Khan Dispensary Salimabad,Clinic,clinic,,,,,5146930683,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4793731858,67.101853,24.922907,Dr Azhra Hospital,Hospital,hospital,,,,,4793731858,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4779033041,67.064195,24.889942,Kara Medical Clinic,Clinic,clinic,,,,,4779033041,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4788607083,67.0881,24.87484,Pak Medico Store,Pharmacy,pharmacy,,,,,4788607083,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133405491,67.034916,24.821564,"Doctors Plaza, The Plaza",Hospital,hospital,,,,,5133405491,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5312348466,66.932226,24.964273,Waqar Medical Store,Pharmacy,pharmacy,,,,,5312348466,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5286054986,67.060628,24.916159,Kosar Medical Center,Hospital,hospital,,,,,5286054986,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5117635011,67.072678,24.960261,Al Hammed Medical Store,Pharmacy,pharmacy,,,,,5117635011,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128052897,67.030941,24.917029,Karachi Psychiatric Hospital,Hospital,hospital,,,,,5128052897,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4785000935,67.021558,24.814703,Altamash Institute of Dental Medicine,Dentist,dentist,,,,,4785000935,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5069109836,67.127644,25.01624,Faiz E Aam General Hospital And Maternity,Hospital,hospital,,,,,5069109836,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4777144240,67.067268,24.881867,Homeopathic Pharmacy,Pharmacy,pharmacy,,,,,4777144240,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084136016,67.068484,24.96694,Jameel Medicos,Pharmacy,pharmacy,,,,,5084136016,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739833631,67.094256,24.93244,Sailani Medical & Super Store,Clinic,clinic,,,,,4739833631,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+3847129039,67.050647,24.956706,Corner Chemist,Pharmacy,pharmacy,,,,,3847129039,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147772667,67.012995,24.941,Sajid Clinic,Clinic,clinic,,,,,5147772667,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769518748,67.118828,24.837999,East Side Hospital - Korangi,Hospital,hospital,,,,,4769518748,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6305478232,67.110807,24.917986,Fatma Hospital,Hospital,hospital,,,,,6305478232,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130443944,67.137485,24.934895,Al Shifa Medical and Welfare Clinic,Clinic,clinic,,,,,5130443944,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5329382230,67.065133,25.02393,Al-Mujeeb Hospital,Hospital,hospital,,,,,5329382230,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5317775547,67.133548,24.928733,"The Smart School, Iqbal Campus",Hospital,hospital,,,,,5317775547,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128396157,67.037744,25.002597,Fatima Kidney Care Hospital,Hospital,hospital,,,,yes,5128396157,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4788531526,67.04664,24.799666,City Mart & Pharmacy,Pharmacy,pharmacy,,,,,4788531526,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088685994,67.008499,24.943016,Banaras National Hospital,Hospital,hospital,,,,,5088685994,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791991084,67.012186,24.857431,Kausar Medicos,Pharmacy,pharmacy,,,,,4791991084,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5092989974,66.995365,24.905847,FAAS Pharmaceuticals,Pharmacy,pharmacy,,,,,5092989974,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5097989043,67.002274,24.952644,Tawakel Medical Cenyer,Clinic,clinic,,,,,5097989043,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739903920,67.033755,24.938497,Agha Khan Diagnostic Center,Hospital,hospital,,,,,4739903920,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5199415800,67.052318,24.949322,Farooq e Azam Computer Institute,Hospital,hospital,,,,,5199415800,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4770056042,67.061778,24.80722,Pharmic Plus,Pharmacy,pharmacy,,,,,4770056042,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5311735172,66.936736,24.945402,Zara Clinic & Maternity Home,Hospital,hospital,,,,,5311735172,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739775279,67.051725,24.931805,Munawar Hospital,Hospital,hospital,,,,,4739775279,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720043,67.043933,24.850152,Kidney Care Centre,Hospital,hospital,,,,,5132720043,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5131024099,67.064936,24.861125,Iqbal Clinic,Clinic,clinic,,,,,5131024099,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890317,67.040259,24.817583,Dr. Rafiq Tareen Skin Clinic,Clinic,clinic,,,,,5130890317,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137399529,67.144226,24.824413,Dow Lab Collection Centre,Clinic,clinic,,,,,5137399529,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5162828837,66.99564,24.858048,Masoomeen Hospital,Hospital,hospital,,,,,5162828837,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128635958,67.068429,24.83498,AORC - Advance Orthopedic & Reconstructive Clinic,Clinic,clinic,,,,,5128635958,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734370172,67.028771,24.899603,Imam Zain-ul-Abedien (A.S) Hospital,Hospital,hospital,,,,,4734370172,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5265850536,67.071853,24.833275,Hamdard Dawakhana,Clinic,clinic,,,,,5265850536,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144939670,67.108408,24.81639,Karachi Medical,Pharmacy,pharmacy,,,,,5144939670,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5142741144,67.04027,24.816319,Mall Physiotherapy Clinic - Zamzama,Physiotherapist,physiotherapist,,,,,5142741144,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772834134,67.126269,24.912062,Kamal Medical Store,Pharmacy,pharmacy,,,,,4772834134,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128547826,67.252593,24.847919,The Kidny Post Gradute Centre,Hospital,hospital,,,,,5128547826,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734370142,67.082234,24.883327,Zubaida Medical Hospital,Hospital,hospital,,,,yes,4734370142,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4770061350,67.063468,24.808986,Tesco Pharmacy,Pharmacy,pharmacy,,,,,4770061350,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133037189,67.213367,24.987939,Baqai Hospital - Gadap,Hospital,hospital,,,,,5133037189,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130443946,67.071092,24.821343,Alshifa Clinic,Clinic,clinic,,,,,5130443946,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4757989798,67.028837,24.920251,Abbasi Shaheed Hospital,Hospital,hospital,,,,,4757989798,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890309,67.079599,24.90352,Dr. Hilal Akhtar Mahpuri,Clinic,clinic,,,,,5130890309,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4742815625,67.017663,24.811633,Ali Clinic,Clinic,clinic,,,,,4742815625,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455718,67.202193,24.892444,Madni General Store,Pharmacy,pharmacy,,,,,4767455718,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498609,67.13058,24.874708,Anwar Clinic & Hospital,Clinic,clinic,,,,,5130498609,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5346919274,67.056245,24.891821,Noor Medical Store,Pharmacy,pharmacy,,,,,5346919274,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527594,67.175284,24.83375,Fayyaz Medical Centre,Pharmacy,pharmacy,,,,,5133527594,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6758652193,67.357681,24.871118,Indus Medical & General Store,Hospital,hospital,,,,,6758652193,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026867,67.023327,24.817912,Manzoor Hair Transplant,Clinic,clinic,,,,,5133026867,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890299,67.035442,24.832117,Concept Fertility Centre,Hospital,hospital,,,,,5130890299,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130353812,67.141919,24.880142,"Al-Khidmat Hospital, Shahfaisal",Hospital,hospital,,,,,5130353812,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773326195,67.066897,24.887064,Noor Medical Store,Pharmacy,pharmacy,,,,,4773326195,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128563370,67.12844,24.92937,ZAKAI DENTAL HOSPITAL,Hospital,hospital,,,,,5128563370,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5287119646,67.176715,24.877388,Usman Medical & General Store,Pharmacy,pharmacy,,,,,5287119646,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+765916927,67.028023,24.872121,Unnamed facility,Hospital,hospital,,,,,765916927,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147643033,67.014904,24.941973,Dr. Zahid Pharmacy,Clinic,clinic,,,,,5147643033,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130353811,67.205265,24.903499,Al-Khidmat Hospital,Hospital,hospital,,,,,5130353811,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084263561,67.065355,24.984727,Al-Khidmat Medical Centre,Hospital,hospital,,,,,5084263561,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4761891272,67.022286,24.816223,Clifton Kidney & General Hospital,Hospital,hospital,,,,,4761891272,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5090984180,67.05997,24.872544,Azhar Clinic,Clinic,clinic,,,,,5090984180,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130374115,66.98892,24.871097,Al Noor Clinic,Clinic,clinic,,,,,5130374115,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455666,67.205479,24.903579,Rashid Medical & General Store,Pharmacy,pharmacy,,,,,4767455666,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137608482,67.063704,24.944364,Tooba Medical Center,Hospital,hospital,,,,,5137608482,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954910,67.05259,24.957964,FM Hospital,Hospital,hospital,,,,,5130954910,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127967766,67.031663,24.905183,Al-Khidmat Hospital and Maternity Home,Hospital,hospital,,,,,5127967766,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133048481,67.206589,24.850669,Khatak Hospital,Hospital,hospital,,,,,5133048481,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147427838,67.064703,24.883822,Dr Shamnam Cassim,Clinic,clinic,,,,,5147427838,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088577369,67.016865,24.939287,Zubaida Medical Complex,Hospital,hospital,,,,,5088577369,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128663696,67.022014,24.915091,Samad Medicos,Pharmacy,pharmacy,,,,,5128663696,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198890,67.07633,24.945512,Ansari Homeopathic Clinic,Clinic,clinic,,,,,5130198890,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498588,66.996736,24.852654,Al-Shifa Poly Clinic & Ultrasound Center,Clinic,clinic,,,,,5130498588,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773096198,67.102133,24.922133,Ibn-e-Sina Hospital,Hospital,hospital,,,,,4773096198,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5097989030,67.000852,24.949641,Sindh Government Hospital,Hospital,hospital,,,,,5097989030,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026919,67.016418,24.933412,Abdul Rehman General Hospital,Hospital,hospital,,,,,5133026919,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5334959081,67.065641,24.926706,Mumtaz Medicos,Pharmacy,pharmacy,,,,,5334959081,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739833630,67.094563,24.932631,Ahmed AttariMedical Store,Clinic,clinic,,,,,4739833630,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5329381978,67.081922,24.990895,Shakeel Medical Store,Pharmacy,pharmacy,,,,,5329381978,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6539484560,67.018373,24.842733,khyber clinic,Clinic,clinic,,,,,6539484560,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+3848452397,67.050498,24.956583,Baba Medial,Pharmacy,pharmacy,,,,,3848452397,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144939654,67.12848,24.813688,UMDC (United Medical Dental College),Hospital,hospital,,,,,5144939654,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720049,67.008362,24.858456,Lady Dufferin Hospital,Hospital,hospital,,,,,5132720049,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102876,67.071774,24.921022,Trimax Hospital & Maternity Home,Hospital,hospital,,,,,5133102876,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772739811,67.111667,24.906801,Al Madina Pharmacy,Pharmacy,pharmacy,,,,,4772739811,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720041,67.029804,24.947778,Paracha Hospital,Hospital,hospital,,,,,5132720041,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5124262207,67.059913,24.905345,Bantva Medical,Pharmacy,pharmacy,,,,,5124262207,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764777163,67.196178,24.901022,Taha Medicos,Pharmacy,pharmacy,,,,,4764777163,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772802712,67.131394,24.917927,Cure Clinic,Clinic,clinic,,,,,4772802712,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801407819,67.037412,24.842809,Aziz Medical Store,Pharmacy,pharmacy,,,,,4801407819,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5121933044,67.003335,24.857047,Adam Ali Unani Store,Pharmacy,pharmacy,,,,,5121933044,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773122772,67.139622,24.933633,Batool General Hospital,Hospital,hospital,,,,,4773122772,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147047114,67.065705,24.883195,Dental Clinic (Dr Hammad Yousuf),Dentist,dentist,,,,,5147047114,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5208337208,67.079812,24.941674,KAMAL DENTAL SURGERY,Clinic,clinic,,,,,5208337208,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5103425098,67.217067,24.837742,Nawab Medical Complex,Clinic,clinic,,,,,5103425098,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4762613097,67.057143,24.914266,Usman Memorial Hospital,Hospital,hospital,,,,,4762613097,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5311735195,66.935307,24.94516,Heer Medical Store,Pharmacy,pharmacy,,,,,5311735195,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4740020151,67.058506,24.96573,Shed Homes Complex & Hospital,Hospital,hospital,,,,,4740020151,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498604,66.999783,24.867388,Kanza Anwar Clinic,Clinic,clinic,,,,,5130498604,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5119465032,66.936011,24.920541,Sina Hospital,Hospital,hospital,,,,,5119465032,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790154409,67.054769,24.86111,Gulistan Medical and General Store,Pharmacy,pharmacy,,,,,4790154409,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791723429,67.067145,24.832713,Prime Pharmacy,Pharmacy,pharmacy,,,,,4791723429,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737716791,67.185691,24.880645,Dr Khan Laboratory & Diagnostic Centre,Hospital,hospital,,,,,4737716791,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5346835906,67.054243,24.892749,Aga Khan Laboratory PIB Collection Point,Clinic,clinic,,,,,5346835906,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5318467700,67.050474,24.924802,Medical Store,Pharmacy,pharmacy,,,,,5318467700,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4810084312,67.095689,24.918959,Agha Khan Laboratory,Hospital,hospital,,,,,4810084312,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127768205,67.206954,24.849881,Zafar Khan Medical Complex - Korangi,Hospital,hospital,,,,,5127768205,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773096205,67.103448,24.92233,Bismillah Medical Store,Pharmacy,pharmacy,,,,,4773096205,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764575642,67.188717,24.902783,Model Colony Town Hospital,Hospital,hospital,,,,,4764575642,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5297001604,67.122257,24.913964,Sana Medical Center,Clinic,clinic,,,,,5297001604,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4761891271,67.022544,24.816674,North Carolina Dental Rahman And Rahman,Dentist,dentist,,,,,4761891271,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135474751,67.212227,24.834972,Younus Medical Center,Pharmacy,pharmacy,,,,,5135474751,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5092989968,66.993085,24.904333,Macter International,Pharmacy,pharmacy,,,,,5092989968,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5091220616,66.960584,24.873881,Syngenta Pakistan,Pharmacy,pharmacy,,,,,5091220616,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127759865,67.19304,24.844672,Landhi Cardiac Emergency Center,Hospital,hospital,,,,,5127759865,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143101214,67.034737,24.866399,Abdullah Medico and General Store,Pharmacy,pharmacy,,,,,5143101214,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128493820,67.116459,24.890077,EYE SPECIALIST DR ARSALAN FAROOQ,Clinic,clinic,,,,,5128493820,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130353810,67.074386,24.831903,Alkhairy's Hospital,Clinic,clinic,,,,,5130353810,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137608490,67.057281,24.946001,Naeem Medical & General Store,Pharmacy,pharmacy,,,,,5137608490,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132578831,67.082747,24.908005,Jawaid Eye Hospital,Hospital,hospital,,,,,5132578831,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135309390,67.188812,24.837708,Landhi 3 Dispensary Landhi Town,Clinic,clinic,,,,,5135309390,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135061550,67.174688,24.833149,Pharmacy Whole Saler,Pharmacy,pharmacy,,,,,5135061550,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5926750925,67.067131,24.847269,Shahi Hadi Jorh (Bonesetter),Alternative,alternative,,,,,5926750925,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128455357,67.023272,24.814065,Infinity Eye Care Center,Clinic,clinic,,,,,5128455357,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764575650,67.191595,24.901863,Shiraz Medical Center,Hospital,hospital,,,,,4764575650,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4299884789,67.094463,24.877175,High-Q Pharmacy,Pharmacy,pharmacy,,,,,4299884789,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739587131,67.049421,24.941071,Dr Essa Laboratory & Diagnostic Centre,Clinic,clinic,,,,,4739587131,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5065686738,67.065187,24.986826,Agha Khan Laboratory Collection Point,Clinic,clinic,New Karachi Sector 5C4,,,,5065686738,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682856,67.055603,24.864725,Natural Hair Transplant Surgery,Clinic,clinic,,,,,5130682856,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102869,67.059835,24.872176,MATIN CLINIC,Clinic,clinic,,,,,5133102869,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6109350185,67.035084,24.883432,"AGA Khan Hospital for Women and Children, Garden East Karachi,",Hospital,hospital,,,,,6109350185,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1118684686,67.060491,24.861747,Pasha Clinic,Hospital,hospital,,,,,1118684686,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773326177,67.065348,24.883575,Vision Trust,Hospital,hospital,,,,,4773326177,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769937741,67.12537,24.829023,Abdullah Medical & General Store,Pharmacy,pharmacy,,,,,4769937741,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137950731,67.062929,24.889726,Dilshad Clinc - Chandni Chowk,Clinic,clinic,,,,,5137950731,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4761797723,67.213761,24.949178,Medical Store,Pharmacy,pharmacy,,,,,4761797723,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102871,67.05956,24.859314,The Protectors,Clinic,clinic,,,,,5133102871,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028126,67.022874,24.861537,Shahrukh Clinic,Clinic,clinic,,,,,5133028126,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5581614723,67.130683,24.815144,Creek General Hospital,Hospital,hospital,,,,,5581614723,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921745,67.061509,24.881452,Essa Laboratory & Diagnostic Centre,Clinic,clinic,,,,,5130921745,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4774671213,67.063945,24.880676,Al-Khaleej Towers,Hospital,hospital,,,,,4774671213,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028139,67.063376,24.926438,Skin Care Centre,Clinic,clinic,,,,,5133028139,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890722,67.085628,24.849199,Essa Laboratory & Diagnostic Centre,Clinic,clinic,,,,,5130890722,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272519,67.0933,24.926131,Ali Clinic,Clinic,clinic,,,,,5130272519,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079173650,67.03579,24.907866,Al Murtaza Hospital,Hospital,hospital,,,,,5079173650,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5069092976,67.128162,25.015278,Gulshan Medical,Pharmacy,pharmacy,,,,,5069092976,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026907,67.042289,24.853509,National Institute of Child Health (NICH),Clinic,clinic,,,,,5133026907,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026864,67.033577,24.806105,Mahar Medical Center,Clinic,clinic,,,,,5133026864,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128867094,67.026919,24.920803,Behtar Zindagi Center Nazimabad,Hospital,hospital,,,,,5128867094,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5145372003,67.046622,24.848691,POLIO Control Room,Hospital,hospital,,,,,5145372003,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791846660,67.072955,24.831801,Al Zaeem Medical Center,Hospital,hospital,,,,,4791846660,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143101205,67.033247,24.869933,SSGC City Clinic,Clinic,clinic,,,,,5143101205,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130353816,67.008965,24.812813,Al Khidmat Hospital,Hospital,hospital,,,,,5130353816,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4792035082,67.03205,24.868098,Advanced Radiology Clinic,Clinic,clinic,,,,,4792035082,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130517087,67.02093,24.922466,Siddiqui Medical Center,Hospital,hospital,,,,,5130517087,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130354321,67.186207,24.83993,Al Masiha Hospital,Hospital,hospital,,,,,5130354321,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128445381,67.01006,24.861379,Indus Hospital,Hospital,hospital,,,,,5128445381,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739600300,67.049694,24.945797,Remedial Center - Hospital & Nursing Home,Hospital,hospital,,,,,4739600300,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5140969321,67.032594,24.939732,Shabbir Medical Center,Hospital,hospital,,,,,5140969321,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128368408,67.127488,24.914236,Darul Sehat Hospital,Hospital,hospital,,,,,5128368408,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921747,67.074918,24.843153,Family Health Centre,Clinic,clinic,,,,,5130921747,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6043702245,67.070924,24.843293,Majid Clinic,Clinic,clinic,,,,,6043702245,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4762593168,67.080513,24.904319,Rameez Clinic,Clinic,clinic,,,,,4762593168,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5312107117,67.06491,24.86493,Neurology Centre,Hospital,hospital,,,,,5312107117,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5383541713,67.097677,24.878273,CWC,Hospital,hospital,,,,,5383541713,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6102385780,67.074019,24.847449,Hamza Dawa Khana,Alternative,alternative,,,,,6102385780,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079542915,67.022191,24.913368,Malik Hospital,Hospital,hospital,,,,,5079542915,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5124425322,67.028732,24.861515,Eduljee Dinshaw,Pharmacy,pharmacy,,,,,5124425322,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5149339814,67.053993,24.869938,Dr Faraz Nawaz Dental Clinic,Clinic,clinic,,,,,5149339814,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272623,67.019164,24.876981,"Ali Clinic, Dr. Ahmed",Clinic,clinic,,,,,5130272623,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5081844141,67.034505,24.918283,Chiniot Mother and Child Hospital,Hospital,hospital,,,,,5081844141,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130993640,67.02792,24.900156,Moeez Medical Store,Clinic,clinic,,,,,5130993640,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4774769860,67.03997,24.817956,Medical Health Care Services- Zamzama,Clinic,clinic,,,,,4774769860,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5085898853,67.120382,24.917489,Dr. Khalid Bhatti Eye and Consulting Clinic,Clinic,clinic,,,,,5085898853,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920524,67.13967,24.884297,Shah Faisal Medical And General Store,Pharmacy,pharmacy,,,,,4767920524,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5232539122,66.996282,24.854123,The Aga Khan Hospital for Women and Children Kharadar,Hospital,hospital,,,,,5232539122,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198893,67.076935,24.945341,Imran Homeopathic Store,Clinic,clinic,,,,,5130198893,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5142802051,66.990969,24.848725,KDLB OPD,Hospital,hospital,,,,,5142802051,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4740020152,67.056848,24.965884,Aiwan e Tijarat O Sanat Hospital,Hospital,hospital,,,,,4740020152,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026896,67.031535,24.893316,Mother Child Care,Clinic,clinic,,,,,5133026896,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790072784,67.080476,24.884678,Khawaja Medical & Super Store,Pharmacy,pharmacy,,,,,4790072784,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5329382002,67.069275,25.022007,Alshifa Medical Store,Pharmacy,pharmacy,,,,,5329382002,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5123962267,66.999714,24.867284,Liyari Clinic,Hospital,hospital,,,,,5123962267,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4792035078,67.030696,24.868315,Taj Medical Complex,Hospital,hospital,,,,,4792035078,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5092989972,66.994182,24.905195,Salman Surgical Hospital,Hospital,hospital,,,,,5092989972,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079542900,67.030777,24.912529,Doctors Plaza,Hospital,hospital,,,,,5079542900,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720050,67.007679,24.858731,Husaini Blood Bank,Blood donation,blood_donation,,,,,5132720050,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801932702,67.036433,24.814473,Usman Medical Store,Pharmacy,pharmacy,,,,,4801932702,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128322376,67.060047,24.951912,Ameen Medical & Dental Center,Clinic,clinic,,,,,5128322376,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4723979440,67.023269,24.817954,BMI Physio,Doctor,doctors,,,,,4723979440,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128507228,67.049283,24.839915,3,Hospital,hospital,,,,,5128507228,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455654,67.201052,24.90136,Sindh Heart Hospital,Hospital,hospital,,,,,4767455654,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5185754378,67.054103,24.947588,Nisar & Sons Medical Store,Pharmacy,pharmacy,,,,,5185754378,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5159027409,67.033303,24.858547,Quality Surgical,Pharmacy,pharmacy,,,,,5159027409,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026889,67.089617,24.919641,Messiah Clinic,Clinic,clinic,,,,,5133026889,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720034,67.060719,24.935397,Shah Sultana Memorial Welfare Center,Hospital,hospital,,,,,5132720034,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4760100094,67.069555,24.830025,Pharmacy Point 2,Pharmacy,pharmacy,,,,,4760100094,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198880,67.059154,24.861271,Al-Maimoona Gyne & Maternity Clinic,Clinic,clinic,,,,,5130198880,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1428217500,66.947133,24.881984,PAF Hospital,Hospital,hospital,,,,,1428217500,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5225940416,67.034076,24.925736,Tuba Medical Store,Pharmacy,pharmacy,,,,,5225940416,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147643034,67.015294,24.94169,Combine Medical,Pharmacy,pharmacy,,,,,5147643034,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5124425326,67.028649,24.86148,Dr Anthony Clinic,Clinic,clinic,,,,,5124425326,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026916,67.026304,24.818117,Park View Clinic,Clinic,clinic,,,,,5133026916,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786500681,67.079116,24.829363,Sir Syed Hospital,Hospital,hospital,,,,,4786500681,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786563402,67.080769,24.825735,Sir Syed Hospital,Hospital,hospital,,,,,4786563402,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5123962266,66.999634,24.865646,Haroon Medical - Chakiwara,Pharmacy,pharmacy,,,,,5123962266,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5142642730,67.069988,24.921095,Fatima Dental Hospital,Hospital,hospital,,,,,5142642730,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130080828,67.062378,24.859456,Ahmed Hospital & Maternity Home,Hospital,hospital,,,,,5130080828,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026856,67.035391,24.822939,Laserline Cosmoderma Clinic,Clinic,clinic,,,,,5133026856,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128493817,67.023152,24.868582,Kutiyana Memon Hospital,Hospital,hospital,,,,,5128493817,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4775013574,67.063762,24.877858,Sindhlab,Clinic,clinic,,,,,4775013574,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4738085531,67.034245,24.925186,Asghar Hospital,Hospital,hospital,,,,,4738085531,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135061566,67.171793,24.831487,Behtar Zindagi Center Korangi,Hospital,hospital,,,,,5135061566,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739833641,67.080212,24.93391,Kkf  Medical Store,Hospital,hospital,,,,,4739833641,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079542899,67.030841,24.913909,Liaquat National Hospital,Hospital,hospital,,,,,5079542899,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130955228,67.095762,24.919872,Hafeez Clinic & Dental Surgery,Clinic,clinic,,,,,5130955228,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682849,67.071893,24.940888,Aziza Hussaini Hospital,Hospital,hospital,,,,,5130682849,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5300544464,67.072268,24.909558,Rida Medical Center,Hospital,hospital,,,,,5300544464,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144939653,67.130526,24.814754,Creek General Hospital,Hospital,hospital,,,,,5144939653,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455705,67.209789,24.89965,Shoaib Medical Store,Pharmacy,pharmacy,,,,,4767455705,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028130,67.171449,24.879551,Shamsi Hospital,Hospital,hospital,,,,,5133028130,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5156794585,67.192029,24.871995,Faizan Homeo Clinic,Clinic,clinic,,,,,5156794585,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498597,67.060602,24.806906,Alvi Dental Hospital DHA,Clinic,clinic,,,,,5130498597,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739321179,67.293287,24.837832,Madina Medical Center,Hospital,hospital,,,,,4739321179,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5158643476,67.083097,24.975965,Muslim Khatri Charitable Hospital,Hospital,hospital,,,,,5158643476,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5142917278,67.024911,24.857219,Pakistan Medical & Dental Council,Hospital,hospital,,,,,5142917278,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5329128337,67.067263,24.967846,Saleem Hospital & Maternity Home,Hospital,hospital,,,,,5329128337,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5156794555,67.154476,24.878456,Al-Mustafa Medical Centre Maternity Home,Hospital,hospital,,,,yes,5156794555,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772708950,67.120529,24.909549,Rida Medical Center,Hospital,hospital,,,,,4772708950,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769985101,67.132091,24.859777,Star Charitable Clinic,Clinic,clinic,,,,,4769985101,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198879,67.063978,24.880732,Al Khaleej Clinics,Clinic,clinic,,,,,5130198879,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128555085,67.011117,24.860273,"SMBB Trauma Centre, Dr Ruth KM Pfau Civil Hospital",Hospital,hospital,,,,,5128555085,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133370625,67.187352,24.840983,Al Razi Hospital,Hospital,hospital,,,,,5133370625,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4774619852,67.06988,24.837097,Boulevard Hospital,Hospital,hospital,,,,,4774619852,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682866,67.144094,24.823451,Sindh Lab,Clinic,clinic,,,,,5130682866,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132890214,67.115719,24.818923,Fomg Hospital,Hospital,hospital,,,,,5132890214,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772739815,67.112097,24.906375,Medical Store,Pharmacy,pharmacy,,,,,4772739815,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5103518890,67.237103,24.835972,Bilqees Sultan Medical Centre,Clinic,clinic,,,,,5103518890,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5306266439,67.08042,24.838894,Siddique Medical Store,Pharmacy,pharmacy,,,,,5306266439,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734023590,67.031022,24.919581,Karachi X-ray,Clinic,clinic,,,,,4734023590,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026918,67.082646,24.938586,Mansoora Homeopathic Clinic,Clinic,clinic,,,,,5133026918,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498601,67.077046,24.953258,Anwar Homeo Clinic,Clinic,clinic,,,,,5130498601,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127934393,67.059008,24.923712,Shamim Clinic Maternity Home,Clinic,clinic,,,,,5127934393,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6057917340,67.071765,24.844488,New Paracha (Homeo Medicine) Store,Alternative,alternative,,,,,6057917340,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4798720020,67.040733,24.829507,Hashmanis Hospital,Hospital,hospital,,,,,4798720020,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682867,67.141946,24.823985,Baldia Hospital,Hospital,hospital,,,,,5130682867,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5346835905,67.054496,24.893067,Sultan Hospital,Hospital,hospital,,,,,5346835905,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4805954557,67.042813,24.816076,The Skin Tronic Clinic- Zamzama,Clinic,clinic,,,,,4805954557,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890312,67.039566,24.818228,Dr. Mitha's Dental Practice,Clinic,clinic,,,,,5130890312,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4798720931,67.041338,24.83048,Clifton City Hospital,Hospital,hospital,,,,,4798720931,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5149296740,67.052278,24.867733,Dr. Mehdi A. Manji Pathological Laboratories,Clinic,clinic,,,,,5149296740,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5162476322,67.049755,24.840105,Shifa Pharmacy,Pharmacy,pharmacy,,,,,5162476322,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026904,67.069895,24.933016,Dr Muslim Eye Care Hospital,Clinic,clinic,,,,,5133026904,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5023594984,67.059507,24.871862,Aatia Clinic,Hospital,hospital,,,,,5023594984,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109119034,67.012113,24.861072,Sindh Institute of Urology and Transplantation,Hospital,hospital,,,,,5109119034,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5146895229,67.065903,24.883236,Town Mart Pharmacy,Pharmacy,pharmacy,,,,,5146895229,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4792035066,67.025342,24.866083,OSP Karachi,Doctor,doctors,,,,,4792035066,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5140919480,67.043112,24.948889,Dr Farida's Clinic,Clinic,clinic,,,,,5140919480,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4757978642,67.015567,24.927223,Kulsum Bai Valika Hospital,Hospital,hospital,,,,,4757978642,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127823733,67.077702,24.938649,Mamji Hospital,Hospital,hospital,,,,yes,5127823733,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5226273855,67.034908,24.929171,Health Care Hospital,Hospital,hospital,,,,,5226273855,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954908,67.081472,24.941649,The Federal Clinic Maternity Home,Hospital,hospital,,,,,5130954908,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128441355,67.033228,24.83405,Hilal-e-Ahmer Hospital (Red Crescent),Hospital,hospital,,,,,5128441355,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1118684364,67.058207,24.861584,Al Ain Clinic,Hospital,hospital,,,,,1118684364,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5287119639,67.18079,24.876323,Al-Shifa Hospital & Maternity Home,Hospital,hospital,,,,,5287119639,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4804189021,67.040675,24.817966,The Psychiatric Clinic- Zamzama,Clinic,clinic,,,,,4804189021,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734023597,67.038304,24.931454,Safi Hospital,Hospital,hospital,,,,,4734023597,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5346919270,67.053122,24.896051,Jam-e-Kauser Public Welfare Hospital,Hospital,hospital,,,,,5346919270,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790222404,67.055009,24.827371,Dar-ul-Hijama,Hospital,hospital,,,,,4790222404,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5112691244,67.064062,24.927949,Hakim Saeed Dawa Khana,Clinic,clinic,,,,,5112691244,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4793639799,67.035763,24.874321,Zainab Panjwani Memorial Hospital,Hospital,hospital,,,,,4793639799,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137626762,67.153145,24.82587,Aga Khan University HospitalMedical,Hospital,hospital,,,,,5137626762,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5078966617,67.025405,24.909232,Zeb Medical Center,Hospital,hospital,,,,,5078966617,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132578832,67.062589,24.95901,Junaid Clinic & Medical Store,Clinic,clinic,,,,,5132578832,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1428265981,66.952992,24.888183,Medical Institute,Hospital,hospital,,,,,1428265981,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786285990,67.063292,24.804381,DHA Medical Centre,Hospital,hospital,,,,,4786285990,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5281786565,67.033642,24.881569,Fatimid Foundation Karachi,Hospital,hospital,,,,,5281786565,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720068,67.062751,24.929099,Lakhanis Eye Hospital,Hospital,hospital,,,,,5132720068,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764777143,67.195794,24.89394,Ain-Dental Clinic,Clinic,clinic,,,,,4764777143,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4783147822,67.257535,24.834368,Al-Momin Medical Store,Pharmacy,pharmacy,,,,,4783147822,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128635956,67.065062,24.926248,Fidai Emergency Medical Centre,Hospital,hospital,,,,,5128635956,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773397451,67.074044,24.874095,Hill Park General Hospital,Hospital,hospital,,,,,4773397451,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5331329914,67.027146,24.927397,Shahan Dawakhana,Clinic,clinic,,,,,5331329914,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6539484559,67.01835,24.842608,Asma Medical Clinic,Clinic,clinic,,,,,6539484559,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026880,67.018122,24.864946,Mehrun Nisa Eye Clinic,Clinic,clinic,,,,,5133026880,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527587,67.177089,24.834929,Landhi Polyclinic,Clinic,clinic,,,,,5133527587,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920584,67.139297,24.878193,Al Mehran Homoeo Pharmacy,Pharmacy,pharmacy,,,,,4767920584,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5066143325,67.026448,24.914955,Ziauddin Memorial Hospital,Hospital,hospital,,,,,5066143325,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5115427068,67.101876,24.914363,Mufeed e Aam Dawakhana,Clinic,clinic,,,,,5115427068,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5318467715,67.075052,24.945255,Govt Vaccination Center,Hospital,hospital,,,,,5318467715,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137658234,67.040546,24.94487,Medical Store,Pharmacy,pharmacy,,,,,5137658234,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786500667,67.08318,24.823815,Mahnoor Medical Center,Hospital,hospital,,,,,4786500667,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088577353,67.026031,24.946938,Askari hospital,Hospital,hospital,,,,,5088577353,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527581,67.179655,24.836289,Al Massiha Hospital,Hospital,hospital,,,,,5133527581,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128441354,67.028177,24.872119,Holy Family Hospital,Hospital,hospital,,,,,5128441354,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4762522260,67.08977,24.908449,Bilal Hijama Clinic,Clinic,clinic,,,,,4762522260,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143101733,67.036854,24.869267,Dr Liaqat Rana Clinic,Clinic,clinic,,,,,5143101733,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890304,67.036354,24.826922,Dental Care Centre,Clinic,clinic,,,,,5130890304,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791846661,67.072675,24.831632,Pharmacy And Mart,Pharmacy,pharmacy,,,,,4791846661,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527588,67.176947,24.834836,Dr Mrs.Hameeda,Clinic,clinic,,,,,5133527588,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127858328,67.081327,24.94157,MI Hospital,Hospital,hospital,,,,,5127858328,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4792035067,67.024978,24.866234,Pakistan Medical Association,Hospital,hospital,,,,,4792035067,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4785947196,67.031405,24.82112,Clifton Hospital,Hospital,hospital,,,,,4785947196,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790118547,67.084606,24.874893,Dr.Saeed Diabetes Clinic & Foot care Center,Clinic,clinic,,,,,4790118547,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132712720,67.032888,24.852745,Kamal Hospital,Hospital,hospital,,,,,5132712720,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5067052807,67.133857,24.948729,Khan Medical Complex,Hospital,hospital,Sachal Goth,,,,5067052807,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6317673985,67.075184,24.891592,AGA KHAN HOSPITAL,Hospital,hospital,,,,,6317673985,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5259800626,67.13315,24.842633,Chiniot General Hospital,Hospital,hospital,,,,,5259800626,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769800425,67.107139,24.819112,Bilqees Memorial Hospital,Hospital,hospital,,,,,4769800425,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4738135542,67.036131,24.929149,Life Line Hospital,Hospital,hospital,,,,,4738135542,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132544665,66.977481,24.843827,GlaxoSmithKline Pakistan Limited,Pharmacy,pharmacy,,,,,5132544665,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4762613117,67.06062,24.916979,Tayyabs,Pharmacy,pharmacy,,,,,4762613117,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769977947,67.069261,24.881172,Hussaini Hospital,Hospital,hospital,,,,,4769977947,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737685500,67.180595,24.883117,Aga Khan University Hospital Medical Centre Malir,Hospital,hospital,,,,,4737685500,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772106504,67.049811,24.829011,Altamash Dental Hospital,Dentist,dentist,,,,,4772106504,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5069109835,67.127432,25.016016,Faiz-e-Aam Medical Centre,Hospital,hospital,,,,,5069109835,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5252561722,67.008996,24.930508,Unnamed facility,Clinic,clinic,,,,,5252561722,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4809964833,67.099788,24.931968,Eye & General Hospital,Hospital,hospital,,,,,4809964833,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5124127907,67.037876,24.877109,Karachi National Hospital Pvt Ltd,Hospital,hospital,,,,,5124127907,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5124262195,67.056393,24.902524,Qasimabad Medical Store,Pharmacy,pharmacy,,,,,5124262195,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147639134,67.065076,24.885013,Hamdard Matab Clinic,Clinic,clinic,,,,,5147639134,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130396231,66.961373,24.918572,Al Noor Eye Clinic,Clinic,clinic,,,,,5130396231,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+596210318,67.007191,24.817265,Ziauddin Hospital,Hospital,hospital,,,,yes,596210318,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890313,67.076272,24.903497,Dr. Mudassir Dental Clinic,Clinic,clinic,,,,,5130890313,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5063378221,67.187561,24.868877,baji house,Clinic,clinic,,,,,5063378221,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127796859,67.101999,24.922022,Ibn-e-Sina Hospital,Hospital,hospital,,,,,5127796859,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890303,67.045415,24.798785,Dar-ul-Shifa,Clinic,clinic,,,,,5130890303,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682842,67.078972,25.006967,Ayesha Clinic,Clinic,clinic,,,,,5130682842,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734370156,67.063573,24.88096,Medicare Cardiac & General Hospital,Hospital,hospital,,,,,4734370156,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088577384,67.012281,24.940019,Pharmacy,Pharmacy,pharmacy,,,,,5088577384,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4810006262,67.083137,24.918475,New Horizon Care Center (NHCC),Hospital,hospital,,,,,4810006262,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455701,67.214459,24.898021,Alleviate Addiction Suffering Trust,Hospital,hospital,,,,,4767455701,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137608497,67.051959,24.949261,Farooq e Azam Medical Hospital,Hospital,hospital,,,,,5137608497,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5119465024,66.944623,24.926539,Murshid Hospital & Health Care,Hospital,hospital,,,,,5119465024,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128109100,67.063994,24.880789,Royal Institute Of Medicine & Surgery,Hospital,hospital,,,,,5128109100,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5140896531,67.056442,24.954116,Al-Khidmat Medical Center,Hospital,hospital,,,,,5140896531,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739830940,67.372562,24.870832,Alkhidmat Fareeda Yaqoob,Clinic,clinic,,,,,4739830940,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527593,67.176267,24.833731,doctor ansari clicnic,Clinic,clinic,,,,,5133527593,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773397455,67.073485,24.872801,Bait-ul-sukoon Cancer hospital,Hospital,hospital,,,,,4773397455,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773326196,67.067033,24.887208,Bilal Medical & General Store,Pharmacy,pharmacy,,,,,4773326196,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088969202,67.002666,24.941937,Ansari Medical Center,Clinic,clinic,,,,,5088969202,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4785947197,67.047135,24.851742,Jinnah Post Graduate Medical Centre,Hospital,hospital,,,,,4785947197,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801771626,67.038784,24.807636,Niazi Hospital- Tauheed Commercial,Hospital,hospital,,,,,4801771626,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737680867,67.179436,24.883581,Husaini Blood Bank,Blood donation,blood_donation,,,,,4737680867,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5269335969,67.176802,24.878683,AL Tameez Medicos,Pharmacy,pharmacy,,,,,5269335969,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5336256066,67.104389,24.948117,Biochemic & Homeopathic Clinic,Hospital,hospital,,,,,5336256066,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455672,67.208743,24.905161,Al-Amin Medical & Gen Store,Pharmacy,pharmacy,,,,,4767455672,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198869,67.099294,24.933188,Dr. Aqeel Bin Abdul Qadir Welfare Eye Hospital,Hospital,hospital,,,,,5130198869,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130611430,67.027061,24.927881,Aziz Medical Center,Clinic,clinic,,,,,5130611430,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128396156,67.097039,24.898197,Dr.Saeed Diabetes Clinic & Foot Care Center,Clinic,clinic,,,,,5128396156,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028143,67.067128,24.83159,The Dental Art & Surgery,Clinic,clinic,,,,,5133028143,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5156794593,67.222612,24.90901,Government Hospital,Hospital,hospital,,,,,5156794593,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128267597,67.029129,24.908328,Subhan Medical Clinic,Clinic,clinic,,,,,5128267597,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5160729718,67.008954,24.859633,Burns Center,Hospital,hospital,,,,,5160729718,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737625706,67.154702,24.886379,Ali Medical Complex,Hospital,hospital,,,,,4737625706,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109489798,67.076108,24.938929,Tabba Heart Hospital,Hospital,hospital,,,,,5109489798,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5285985445,67.152929,24.881923,Nishat Medical Store,Pharmacy,pharmacy,,,,,5285985445,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5340510811,67.085231,24.929604,Asim Medical Store,Pharmacy,pharmacy,,,,,5340510811,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920585,67.138721,24.878183,Moosa Medical Store,Pharmacy,pharmacy,,,,,4767920585,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4103107393,66.913061,24.854607,Akbar medical centre,Pharmacy,pharmacy,,,,,4103107393,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4783144512,67.263369,24.836359,Razia Medical Centre,Hospital,hospital,,,,,4783144512,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773397457,67.073938,24.872191,Samad Clinic Shaheed-e-Millat Rd karachi,Hospital,hospital,,,,,4773397457,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6335733985,67.131013,24.816601,Maria Medical Centre,Clinic,clinic,,,,,6335733985,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4724110185,67.031416,24.8167,Parklane Hospital,Hospital,hospital,,,,,4724110185,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128052896,67.074576,24.873869,Plastic Surgery General Hospital PSG Hospital,Hospital,hospital,,,,,5128052896,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682843,67.085804,24.851857,Azam Medical Centre,Clinic,clinic,,,,,5130682843,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682855,67.102478,24.93317,WESTERN DENTAL HOSPITAL,Hospital,hospital,,,,,5130682855,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6095344218,67.07171,24.8449,A 1 Diagnostic Centre,Laboratory,laboratory,,,,,6095344218,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5112691243,67.063642,24.928366,Balqis Cancer Hospital,Hospital,hospital,,,,,5112691243,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127899082,67.065088,24.92859,Dow Lab,Clinic,clinic,,,,,5127899082,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132890212,67.113729,24.817555,Islamic Mission Hospital,Hospital,hospital,,,,,5132890212,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026920,67.067899,24.926847,Sana Clinic,Clinic,clinic,,,,,5133026920,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790153238,67.089655,24.882596,Dr. Pirzada Vet Clinic (Animal Centre),Clinic,clinic,,,,,4790153238,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079173649,67.035105,24.907864,Baqai Oncology,Hospital,hospital,,,,,5079173649,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682865,67.143779,24.823791,Chiniot General Hospital,Hospital,hospital,,,,,5130682865,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773696660,67.072637,24.866413,HillSide Clinic,Clinic,clinic,,,,,4773696660,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682839,67.183166,24.882002,Atia General Hospital,Hospital,hospital,,,,,5130682839,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026917,67.097233,24.934986,Patel Hospital,Hospital,hospital,,,,,5133026917,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741344822,67.048125,24.941977,Florence Medical Centre,Clinic,clinic,,,,,4741344822,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109119037,67.011919,24.859596,Eye OPD Civil Hospital,Hospital,hospital,,,,,5109119037,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109119036,67.010794,24.860583,Benazir Trauma Center,Hospital,hospital,,,,,5109119036,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4781343223,67.097323,24.904312,Al Shifa Medical Store,Pharmacy,pharmacy,,,,,4781343223,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682861,67.122457,24.919381,Cheezal Dental & Medical Hospital,Hospital,hospital,,,,,5130682861,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5100872905,66.984114,24.948701,Hajama Center,Clinic,clinic,,,,,5100872905,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127759864,67.192863,24.844496,Urban Health Center Babar Market Landhi,Hospital,hospital,,,,,5127759864,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026866,67.087076,24.847436,Ashiq Memorial Hospital,Hospital,hospital,,,,,5133026866,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137256172,67.103532,24.936508,Fahad Poly Clinic,Clinic,clinic,,,,,5137256172,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128042359,67.161001,24.828312,Korangi Landhi Medical Center,Hospital,hospital,,,,,5128042359,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769656320,67.106368,24.836293,Adamjee Pharmaceuticals,Pharmacy,pharmacy,,,,,4769656320,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5156794596,67.225122,24.885061,Al Tibri General Hospital,Hospital,hospital,,,,,5156794596,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130080829,66.972063,24.913536,Ahmed Ibrahim Welfare Eye Hospital,Hospital,hospital,,,,,5130080829,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720040,66.998811,24.931115,Khyber Hospital,Hospital,hospital,,,,,5132720040,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6508419415,67.019909,24.862332,Sindh Electro X-Ray Institute,Clinic,clinic,,,,,6508419415,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130354330,67.029248,24.874122,Momin Medical Centre & Maternity Home,Clinic,clinic,,,,,5130354330,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6024665671,67.068423,24.845069,Bs Medical Store & General Store,Pharmacy,pharmacy,,,,,6024665671,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741865101,67.128116,25.015971,Faiz e Aam Pharmacy,Pharmacy,pharmacy,,,,,4741865101,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4783144519,67.259899,24.834618,Shehzad Medical store,Pharmacy,pharmacy,,,,,4783144519,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5131024100,67.095783,24.926482,Ismat Eye Hospital,Hospital,hospital,,,,,5131024100,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5117205307,67.030379,24.918439,Ziauddin Hospital Laboratory,Pharmacy,pharmacy,,,,,5117205307,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272625,67.033271,24.834152,Dr. Shaukat Ali Clinic,Clinic,clinic,,,,,5130272625,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5346894294,67.051832,24.890493,"Indus Hospital, Dialysis Center",Hospital,hospital,,,,,5346894294,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720024,67.070488,24.972306,Khalil Welfare Eye Hospital,Hospital,hospital,,,,,5132720024,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137562865,67.095737,24.943573,R M A Medicos,Pharmacy,pharmacy,,,,,5137562865,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079542898,67.030831,24.914157,AO Medical Center,Hospital,hospital,,,,,5079542898,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026860,67.011061,24.859876,Childlife Foundation - CHK Pediatric ER,Hospital,hospital,,,,,5133026860,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890305,67.040998,24.832192,Jamiyat Hospita,Hospital,hospital,,,,,5130890305,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+732019120,67.057017,24.894767,Tania Clinic,Clinic,clinic,,,,,732019120,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128649344,67.081622,24.901614,Agha Herbal Clinic,Clinic,clinic,,,,,5128649344,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102870,67.064575,24.97854,Medicall General Hospital,Hospital,hospital,,,,,5133102870,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920569,67.145326,24.881528,Madiha Medical Store,Pharmacy,pharmacy,,,,,4767920569,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5089212453,67.059244,24.871814,Agha Medical Store,Pharmacy,pharmacy,,,,,5089212453,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5330850918,67.066654,24.955489,Ali Medical Center,Hospital,hospital,,,,,5330850918,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4770282100,67.069763,24.814054,Marshall Chemist & Surgical,Pharmacy,pharmacy,,,,,4770282100,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5936246867,67.06851,24.847098,Jinnah Medical Centre,Clinic,clinic,,,,,5936246867,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4774671212,67.064038,24.880627,Neuro Care,Hospital,hospital,,,,,4774671212,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6553107989,67.017451,24.840962,Bin Nasir Yunani Store,Alternative,alternative,,,,,6553107989,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4218653776,67.063651,24.918894,Tabba Heart Institute,Hospital,hospital,,,,,4218653776,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5126962163,67.033102,24.876682,Fatimiyah Hospital,Hospital,hospital,,,,,5126962163,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028140,67.071159,24.917372,Dr. Javed Clinic,Clinic,clinic,,,,,5133028140,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5071297221,67.063981,25.0012,Aqeela Latif Memorial Hospital,Hospital,hospital,,,,,5071297221,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801771632,67.035647,24.809144,Oqaf Hospital,Hospital,hospital,,,,,4801771632,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028121,67.156346,24.839624,Sarwat Clinic,Clinic,clinic,,,,,5133028121,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890721,67.066774,24.792673,Dr. Essa Laboratory and Diagnostics Centre,Hospital,hospital,,,,,5130890721,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135474730,67.199579,24.83967,Razia Sultana Hospital,Hospital,hospital,,,,,5135474730,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5131123212,67.057868,24.856504,Hair Club Hair Transplant Karachi,Clinic,clinic,,,,,5131123212,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682869,67.088644,24.877901,Dr. Salman's Orthodontic & Dental Implantology Centre,Clinic,clinic,,,,,5130682869,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144678712,67.071467,24.976153,J.O Clinic,Clinic,clinic,,,,,5144678712,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+2918698093,67.062607,24.86162,Dr. Abdul Ghani (Capt. Retired),Clinic,clinic,,,,,2918698093,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5146847014,67.034027,24.915925,Medical Store,Pharmacy,pharmacy,,,,,5146847014,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739782288,67.354195,24.869823,Saima Clinic,Clinic,clinic,,,,,4739782288,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764692616,67.064086,24.981618,Shah Medicos,Pharmacy,pharmacy,,,,,4764692616,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130374118,67.067549,24.837571,AL NOOR EYE HOSPITAL,Hospital,hospital,,,,,5130374118,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130080835,66.972873,24.913871,Al Noor Homeo Clinic And Store,Clinic,clinic,,,,,5130080835,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682846,67.195466,24.856569,Aziz Medical Centre,Clinic,clinic,,,,,5130682846,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741865099,67.130126,25.016317,Asfar Memorial Hospital,Hospital,hospital,Gulshan e Maymar Sector W,,,,4741865099,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5318288924,67.065674,24.916338,Fair Price Medical Store,Pharmacy,pharmacy,,,,,5318288924,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5931438566,67.067395,24.847727,Karachi Laboratory & Ultrasound centre,Laboratory,laboratory,,,,,5931438566,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741397133,67.061115,24.963161,Government Children Hospital,Hospital,hospital,,,,,4741397133,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084230982,67.065241,24.959082,Syed Medical Store,Pharmacy,pharmacy,,,,,5084230982,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773268348,67.06166,24.880406,Panawala General and Medical Store,Pharmacy,pharmacy,,,,,4773268348,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5149746109,67.06923,24.90638,Alam Medicos,Pharmacy,pharmacy,,,,,5149746109,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4785612504,67.050975,24.813171,Le Dentist,Dentist,dentist,,,,,4785612504,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5297001603,67.125659,24.914682,Alsehat Rehabilitation Services,Hospital,hospital,,,,yes,5297001603,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791991076,67.010707,24.856361,Pharma D Linkers,Pharmacy,pharmacy,,,,,4791991076,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741525043,67.06627,24.938187,Rafah e Aam Medical Center,Hospital,hospital,,,,yes,4741525043,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954918,67.079404,24.973157,North Lane Hospital,Hospital,hospital,,,,,5130954918,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790118561,67.083016,24.87354,"Recovery House, Caravan Of Life Trust",Hospital,hospital,,,,,4790118561,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5091556132,66.936727,24.866754,Bilal Welfare Hospital,Hospital,hospital,,,,,5091556132,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720033,67.144726,24.946988,Karachi Institute of Radiotherapy and Nuclear Medicine,Hospital,hospital,,,,,5132720033,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5134770390,67.050583,24.925397,Helping Friends Organization,Hospital,hospital,,,,,5134770390,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4736892229,67.059186,24.861106,Institute of Orthopaedics & Surgery,Hospital,hospital,,,,,4736892229,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6539484562,67.01816,24.842279,Asma Medical Clinic 2,Clinic,clinic,,,,,6539484562,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920571,67.146266,24.881464,Aftab Dental Clinic,Dentist,dentist,,,,,4767920571,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769985105,67.132778,24.855416,CKD pharmaceuticals,Pharmacy,pharmacy,,,,,4769985105,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921746,67.065169,24.879922,Eye Watch,Clinic,clinic,,,,,5130921746,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5153106194,67.072907,24.831547,Sahil Medical Centre,Hospital,hospital,,,,,5153106194,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790153225,67.093265,24.87889,PIA Medical Center,Hospital,hospital,,,,yes,4790153225,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920570,67.1453,24.881177,Cardiac Emergency Centre,Hospital,hospital,,,,,4767920570,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128649343,67.13002,25.016438,Husaini Blood Bank,Clinic,clinic,,,,,5128649343,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026906,67.039316,24.853616,National Institute of Cardiovascular Diseases,Hospital,hospital,,,,,5133026906,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5145241858,67.065858,24.923189,Tabba Kidney Institute,Hospital,hospital,,,,,5145241858,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769325028,67.03255,24.875232,Husaini Medical Store,Pharmacy,pharmacy,,,,,4769325028,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5115183080,67.111457,24.906282,Kenix Pharma;Mateen Mobile Mall,Pharmacy,pharmacy,,,,,5115183080,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5162670371,67.003246,24.874629,Hussain Kumhar Hospital,Hospital,hospital,,,,,5162670371,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791846692,67.065531,24.829309,Agha Khan University Hospital,Hospital,hospital,,,,,4791846692,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921742,67.145782,24.882849,Essa Laboratory & Diagnostic Centre,Clinic,clinic,,,,,5130921742,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5300544443,67.0938,24.932125,Dhoraji Kidmai Dispensary,Clinic,clinic,,,,,5300544443,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130993635,67.060769,24.870198,Healthline Clinic,Clinic,clinic,,,,,5130993635,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272622,67.026861,24.88251,Piyar Ali Momin Clinic,Clinic,clinic,,,,,5130272622,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5063491281,67.139454,24.912253,Pakistan Relief Foundation Hospital,Hospital,hospital,Gulistan e Johar Block 12,,,,5063491281,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144420788,67.026294,24.867948,OMI Hospitals,Hospital,hospital,,,,,5144420788,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773096342,67.1393,24.936342,Zain Hospital,Hospital,hospital,,,,,4773096342,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128441356,67.033206,24.834328,Agha Khan Laboratory,Clinic,clinic,,,,,5128441356,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498598,67.067793,24.973553,Ansari Eye Hospital,Clinic,clinic,,,,,5130498598,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4520352289,67.115974,24.89016,PAF Hospital Faisal,Clinic,clinic,,,,,4520352289,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130354327,67.189821,24.840804,Awadh Hospital,Hospital,hospital,,,,,5130354327,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786500638,67.063137,24.80872,Medident Clinics,Dentist,dentist,,,,,4786500638,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767596793,67.193267,24.881773,Rashid Clinic,Clinic,clinic,,,,,4767596793,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+3856485884,67.124195,24.913276,786 Medical Store,Pharmacy,pharmacy,,,,,3856485884,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026862,67.157082,24.931181,"Hijama Clinic, Abdul Rafay Qureshi, A-251, Architect Engineers Society, Gulistan E Jouhar",Clinic,clinic,,,,,5133026862,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5105614320,67.030461,24.867547,Doctor's Plaza,Hospital,hospital,,,,,5105614320,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4761891273,67.021587,24.81565,Al-Hayat Clinic,Clinic,clinic,,,,,4761891273,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135145896,67.045221,24.829064,Dr.Naval And Dr.Shahnaz Clinic,Clinic,clinic,,,,,5135145896,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5318288946,67.057995,24.915867,Suriya Medical Center,Clinic,clinic,,,,,5318288946,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720028,67.07063,24.972701,Sindh Govt Hospital,Hospital,hospital,,,,,5132720028,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5105590644,67.030243,24.868014,Hamdard University Hospital,Hospital,hospital,,,,,5105590644,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4788412703,67.046237,24.800686,Agha Khan Laboratory DHA Shahbaz,Pharmacy,pharmacy,,,,,4788412703,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128493819,67.116077,24.889894,ENT Specialist Dr Bilal Akram,Clinic,clinic,,,,,5128493819,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128635957,67.065373,24.926026,Dr. Essa Laboratory,Clinic,clinic,,,,,5128635957,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4496470299,67.090139,24.923587,Medhi Manji Lab,Pharmacy,pharmacy,,,,,4496470299,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102879,67.073746,24.938904,Raheem Hospital,Hospital,hospital,,,,,5133102879,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769659247,67.107159,24.838833,Matrix Pharma,Pharmacy,pharmacy,,,,,4769659247,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767596790,67.191895,24.882728,Zareen Medical,Pharmacy,pharmacy,,,,,4767596790,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5149587324,67.093197,24.874811,PIA Medical,Hospital,hospital,,,,,5149587324,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128547828,67.079227,24.904468,Shahzad Eye Hospital,Clinic,clinic,,,,,5128547828,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5066999281,67.113118,24.964752,Shaukat Khanum Hospital,Hospital,hospital,,,,,5066999281,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682840,67.065178,24.980099,Aurangzeb Memorial Maternity & General Hospital,Hospital,hospital,,,,,5130682840,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5119821448,67.018582,24.873342,Halar General Hospital,Hospital,hospital,,,,,5119821448,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026915,67.021595,24.815624,Pain Relief Clinic Dr. Jehangir Shah,Clinic,clinic,,,,,5133026915,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5069109837,67.128014,25.016658,AKU Laboratory,Clinic,clinic,,,,,5069109837,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5175883626,67.050971,24.945886,Haleem Hospital,Hospital,hospital,,,,,5175883626,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790228471,67.048782,24.82948,Qamarul Islam Hospital,Hospital,hospital,,,,,4790228471,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890302,67.060746,24.962821,Shadman Town Children Hospital,Hospital,hospital,,,,,5130890302,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5119821477,67.015522,24.869807,Gazdarabad hospital,Hospital,hospital,,,,,5119821477,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4770282107,67.070131,24.813763,Chughtai Laboratory,Clinic,clinic,,,,,4770282107,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737814936,67.207989,24.859171,Aurangzeb Hospital,Hospital,hospital,,,,,4737814936,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5162828838,66.995888,24.857995,Chotani Medical,Pharmacy,pharmacy,,,,,5162828838,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5961565766,67.06825,24.844906,Al Shifa Clinic,Clinic,clinic,,,,,5961565766,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4344000389,67.214321,24.949481,CMH Malir,Hospital,hospital,,,,yes,4344000389,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741616553,67.128776,25.022477,Aga Hospital,Hospital,hospital,,,,,4741616553,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769659231,67.113151,24.836799,Geofman Pharmaceuticals,Pharmacy,pharmacy,,,,,4769659231,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128455359,67.022508,24.814304,South City Hospital,Hospital,hospital,,,,,5128455359,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128455355,67.111537,24.817351,Indus Hospital,Hospital,hospital,,,,,5128455355,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720039,67.061831,24.823737,Khizar Eye Clinic And Optic,Clinic,clinic,,,,,5132720039,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4319407286,67.046914,24.924346,Zia uddin Hospital (OPD),Hospital,hospital,,,,,4319407286,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128640416,67.090697,24.924966,Afroz Medical Centre,Clinic,clinic,,,,,5128640416,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790222406,67.043075,24.826746,Kausar Medico,Pharmacy,pharmacy,,,,,4790222406,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890311,67.097241,24.929585,Unnamed facility,Hospital,hospital,,Khair-un Nisa Hospital,,,5130890311,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1428217511,66.948508,24.880144,M I Room,Hospital,hospital,,,,,1428217511,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198885,67.077717,24.947031,Noor Hospital,Hospital,hospital,,,,no,5130198885,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028141,67.048005,24.79927,Smile Point Dentistry,Clinic,clinic,,,,,5133028141,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133363020,67.194654,24.840925,Karachi Homoeopathic Medical College & Hospital,Hospital,hospital,,,,,5133363020,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272517,67.10114,25.041028,Al Huda Trust hospital,Hospital,hospital,,,,,5130272517,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028134,67.163662,24.828971,Sindh Government Hospital Korangi,Hospital,hospital,,,,,5133028134,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5340510802,67.073309,24.92665,Razia Omar Hospital,Hospital,hospital,,,,,5340510802,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786500668,67.081989,24.823263,Khan Cardiac Clinic,Hospital,hospital,,,,,4786500668,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5117205313,67.030851,24.916096,Baqai University Hospital,Hospital,hospital,,,,,5117205313,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741865106,67.127593,25.014504,Maymar Medical Center,Hospital,hospital,,,,,4741865106,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4610363491,67.011678,24.859445,"Civil hospital, Karachi",Hospital,hospital,,,,,4610363491,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6209431056,67.067371,24.846697,Dr. Noman Clinic,Doctor,doctor,,,,,6209431056,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5158915950,67.009057,24.943857,Imtiaz Memorial Hospital,Hospital,hospital,,,,,5158915950,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084174889,67.063036,24.960933,Sana Medicos,Pharmacy,pharmacy,,,,,5084174889,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890307,67.003391,24.8164,Ziauddin Hospital (Keamari),Hospital,hospital,,,,,5130890307,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1709637337,67.145672,24.946996,Kiran Hospital,Hospital,hospital,,,,no,1709637337,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791866145,67.08817,24.850446,Mariam Hospital,Hospital,hospital,,,,,4791866145,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102875,67.016393,24.815048,Transform,Clinic,clinic,,,,,5133102875,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5196077254,67.051528,24.950752,Burhani Medicos,Pharmacy,pharmacy,,,,,5196077254,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088685986,67.011302,24.94113,Marie Stopes Society Clinic,Clinic,clinic,,,,,5088685986,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498593,67.063673,24.896106,Al Shifa Clinic,Clinic,clinic,,,,,5130498593,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890318,67.096928,24.942519,Dr. Shouket Dental Clinic,Clinic,clinic,,,,,5130890318,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527584,67.177367,24.834513,Baldia Hospital,Hospital,hospital,,,,,5133527584,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198873,67.009713,24.855687,Al Basit Optical,Clinic,clinic,,,,,5130198873,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5269655689,67.14661,24.878629,Asim Clinic & Maternity Home,Clinic,clinic,,,,,5269655689,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130353814,67.151849,24.825902,Al-Khidmat Hospital,Hospital,hospital,,,,,5130353814,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4757902881,67.015253,24.926006,Sindh Social Scurity Hospital,Hospital,hospital,,,,,4757902881,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720046,67.04744,24.860035,"Al-Baraka Hospital, Karachi",Hospital,hospital,,,,,5132720046,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5098337027,66.991924,24.973386,Qadirya Medical Store,Pharmacy,pharmacy,,,,,5098337027,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5086170865,67.068291,24.956594,Uzma Medical Center,Hospital,hospital,,,,,5086170865,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767542675,67.196977,24.891375,Shaheen Medical Store,Pharmacy,pharmacy,,,,,4767542675,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130443945,67.097783,24.989074,Al Shifa Maternity Home,Clinic,clinic,,,,,5130443945,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5126962161,67.023716,24.866874,Ankle Seria Hospital,Hospital,hospital,,,,,5126962161,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4740020160,67.054065,24.962653,Kamran Medical Store,Pharmacy,pharmacy,,,,,4740020160,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+2446404623,66.965739,24.915641,Al Jeddah Medical Store,Pharmacy,pharmacy,,,,,2446404623,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128555084,67.012223,24.860966,Deewan Farooque Medical Complex (SIUT),Hospital,hospital,,,,,5128555084,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5162828834,66.991242,24.864984,Aga Khan Hospital for Women and Children,Hospital,hospital,,,,,5162828834,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5273680059,67.344064,24.860949,Pakistan Steel Hundred Bed Hospital,Hospital,hospital,,,,,5273680059,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5199415802,67.053243,24.949766,Agha Khan Laboratory,Clinic,clinic,,,,,5199415802,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791846699,67.067878,24.830942,Sunset Poly Clinic,Clinic,clinic,,,,,4791846699,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272626,67.030958,24.826706,Jivani Clinic,Clinic,clinic,,,,,5130272626,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4810006256,67.104333,24.934049,Al-Raazia Clinic & Maternity Home,Hospital,hospital,,,,,4810006256,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5145241869,67.074136,24.902867,Rehman Hospital,Hospital,hospital,,,,,5145241869,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4611200091,67.078389,24.897623,NIBD Hospital,Hospital,hospital,,,,,4611200091,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109530473,67.082497,24.936321,Mamji Hospital,Hospital,hospital,,,,,5109530473,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5101083936,67.08214,24.891555,Mental Hospital,Hospital,hospital,,,,,5101083936,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720069,67.054557,24.864944,Laser And Plastic Surgery,Clinic,clinic,,,,,5132720069,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133425777,67.180217,24.837405,MALC Hospital,Hospital,hospital,,,,,5133425777,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5190148925,66.981818,24.954654,KMC Hospital,Hospital,hospital,,,,,5190148925,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5103425089,67.206328,24.837978,The New Revival Kainat Clinic Maternity Home,Clinic,clinic,,,,,5103425089,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6014685064,67.070061,24.847459,Hasaan Homeo Clinic and Store Dr M.Amin Homeo Physician/Dr M.Afzal Khan Family Physician  Also Diagnos Laboratory Collection Point,Clinic,clinic,,,,,6014685064,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4774896294,67.052583,24.87091,Medicenter General Hospital,Hospital,hospital,,,,,4774896294,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102881,67.202037,24.883094,Al Zehra Clinic,Clinic,clinic,,,,,5133102881,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5119821453,67.018289,24.872804,Al.Habib Medical Center Post Office Street Shoe Market Garden Karachi,Hospital,hospital,,,,,5119821453,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5758596321,67.051722,24.929879,Allah wali masjid,Hospital,hospital,,,,,5758596321,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6094600505,67.070928,24.845944,Yahoshi Waheed Dental Clinic,Dentist,dentist,,,,,6094600505,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737716792,67.185819,24.880531,Hassan General Hospital,Hospital,hospital,,,,,4737716792,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128396160,67.06523,24.94853,Hammad Dental Care,Clinic,clinic,,,,,5128396160,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498599,67.068523,24.97329,Sunny Medical Haroon Palaza,Clinic,clinic,,,,,5130498599,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4770056035,67.061269,24.806678,Agha Khan Laboratory,Clinic,clinic,,,,,4770056035,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5188687719,67.12608,24.884717,Abdullah Haroon Hospital,Hospital,hospital,,,,,5188687719,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026899,67.071451,24.941776,Mohammadi Hospital Gulberg,Hospital,hospital,,,,,5133026899,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5051184069,67.042606,24.842563,Hassan Railway Hospital,Hospital,hospital,,,,,5051184069,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769800460,67.11621,24.81893,New Urgent Care Hospital,Hospital,hospital,,,,,4769800460,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739833640,67.080169,24.933976,Hopes Medical Store At Cardio,Hospital,hospital,,,,,4739833640,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720037,67.033074,24.916695,Khalid Eye Clinic,Clinic,clinic,,,,,5132720037,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5156794553,67.146285,24.878046,Cardio Surgery Centre,Hospital,hospital,,,,,5156794553,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272627,67.045414,24.828519,Ali Clinic,Clinic,clinic,,,,,5130272627,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5131024105,67.048132,24.851306,"Atomic Energy Medical Center, AEMC",Hospital,hospital,,,,,5131024105,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084119281,67.062821,24.962149,Sahar Clinic,Hospital,hospital,,,,,5084119281,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084385865,67.061466,24.918376,Fatima Bai Tai Memorial Hospital,Hospital,hospital,,,,,5084385865,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084119279,67.064259,24.964173,Eye Bank Hospital,Hospital,hospital,,,,,5084119279,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790228480,67.050678,24.828742,Dr Taj Medical & Diagnostic Centre,Clinic,clinic,,,,,4790228480,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6339320886,67.311044,25.015586,Bahria hospital,Hospital,hospital,,,,,6339320886,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088733607,67.005995,24.947914,Social Security Hospital,Hospital,hospital,,,,,5088733607,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4792035056,67.024521,24.864633,"Tanveer's Ultrasound Clinic, Sadar",Hospital,hospital,,,,,4792035056,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143340852,67.204948,24.852005,Shah General Hospital,Hospital,hospital,,,,,5143340852,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128167857,67.030998,24.919966,Dr. Ehsanullah Lab,Clinic,clinic,,,,,5128167857,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143300425,67.045484,24.871004,Dr Usman Ghani,Hospital,hospital,,,,,5143300425,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5078966593,67.024954,24.906992,Mulsim Medical Store,Pharmacy,pharmacy,,,,,5078966593,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128445357,67.029279,24.863841,St. John Ambulance Association of Pakistan,Hospital,hospital,,,,,5128445357,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790118546,67.084679,24.875033,Foot Comfort Service,Clinic,clinic,,,,,4790118546,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5318288921,67.066204,24.916756,Al Haq Clinic,Clinic,clinic,,,,,5318288921,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741607554,67.129979,25.026265,Maymar Dental Care Center,Clinic,clinic,,,,,4741607554,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5149689895,67.063616,24.877653,The Aga Khan University Hospital Laboratory,Clinic,clinic,,,,,5149689895,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5249828329,67.046996,24.957717,Noor Clinic,Clinic,clinic,,,,,5249828329,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5115540200,67.095511,24.919134,Shan Hospital,Hospital,hospital,,,,,5115540200,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102883,67.073909,24.927604,Zubaida Diagnostics Dr Tahir,Hospital,hospital,,,,,5133102883,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5273680050,67.345031,24.859983,Medical Store Hundred Bed,Pharmacy,pharmacy,,,,,5273680050,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5091163961,66.963455,24.877015,Maibal Clinic,Hospital,hospital,,,,,5091163961,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132578834,67.061955,24.957933,Dr.Arsalan Siddiqi,Clinic,clinic,,,,,5132578834,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026865,67.021806,24.913275,Malik Medical Center,Pharmacy,pharmacy,,,,,5133026865,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147519462,67.063325,24.881225,Elegance Plastic Surgery Clinic,Clinic,clinic,,,,,5147519462,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767596786,67.194942,24.886258,Khumeni ( Al Shifa ) Hospital,Pharmacy,pharmacy,,,,,4767596786,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5334959076,67.066916,24.927734,Kashif Medical Store,Pharmacy,pharmacy,,,,,5334959076,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128555082,67.078575,24.903905,Ahmed Eye Clinic,Clinic,clinic,,,,,5128555082,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+479737407,67.054413,24.856397,Alvi Dental Hospital,Hospital,hospital,,,,,479737407,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128555077,67.07881,24.904532,Feroz Dental Surgery,Clinic,clinic,,,,,5128555077,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764575641,67.188862,24.902481,"DHO Malir, Model Town Health Office",Hospital,hospital,,,,,4764575641,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455693,67.211362,24.903444,Khokrapar No.2 Govt Hospital,Hospital,hospital,,,,,4767455693,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773096345,67.137878,24.936045,Makkah Medical & General Store,Pharmacy,pharmacy,,,,,4773096345,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026875,67.062795,24.943332,HI LiFe Hospital,Hospital,hospital,,,,,5133026875,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5297001605,67.120835,24.914039,PIA Hospital Complex,Hospital,hospital,,,,,5297001605,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144939655,67.130757,24.809611,SIUT Mahrunnisa Medical Center,Hospital,hospital,,,,,5144939655,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5336782561,66.969359,24.900372,Ameena Yousu Hospital,Hospital,hospital,,,,,5336782561,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5092152415,66.995287,24.900695,Pfizer Pakistan Limited,Pharmacy,pharmacy,,,,,5092152415,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272621,67.01595,24.942633,Ali Clinic,Clinic,clinic,,,,,5130272621,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5100460857,67.052689,24.88707,Al Kausar medico,Pharmacy,pharmacy,,,,,5100460857,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128507229,67.049366,24.83825,Emergency Center,Hospital,hospital,,,,,5128507229,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954919,67.098158,24.937498,Gulshan General Hospital,Hospital,hospital,,,,,5130954919,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5085836890,67.116879,24.922313,Universal Medicos,Pharmacy,pharmacy,,,,,5085836890,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801879009,67.029428,24.808331,KKT Orthopedic Spine Center Karachi,Hospital,hospital,,,,,4801879009,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026868,67.109936,24.906507,Maqsood Eye Hospital,Clinic,clinic,,,,,5133026868,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5881288351,67.066777,24.847846,Tariq Hospital,Hospital,hospital,,,,,5881288351,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028123,67.07764,24.861881,Dr Shahid Raza,Clinic,clinic,,,,,5133028123,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4781343227,67.097743,24.90274,Karachi Chemist,Pharmacy,pharmacy,,,,,4781343227,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737680866,67.179243,24.883654,Doctors Plaza,Hospital,hospital,,,,,4737680866,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128170670,67.021319,24.908658,Shahroon Homes Clinic,Clinic,clinic,,,,,5128170670,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4762614027,67.063645,24.919791,Care Medical,Pharmacy,pharmacy,,,,,4762614027,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920568,67.145647,24.8817,Al-Mansoor Clininc,Clinic,clinic,,,,,4767920568,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5140896535,67.058015,24.956572,Zahida Mumta Hospital,Hospital,hospital,,,,,5140896535,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4742815623,67.018112,24.811378,Clifton Medico,Pharmacy,pharmacy,,,,,4742815623,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026912,67.028385,24.866231,NMI Hospital,Hospital,hospital,,,,,5133026912,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5162601766,66.992358,24.858436,Okhai Memon Complex,Hospital,hospital,,,,,5162601766,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734023589,67.032046,24.917971,AO Clinic,Clinic,clinic,,,,,4734023589,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026905,67.14526,24.883443,Naila Maternity Hospital,Hospital,hospital,,,,,5133026905,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769800426,67.107811,24.819705,Bilquees Hospital,Hospital,hospital,,,,,4769800426,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786568421,67.071886,24.820591,Medwin Hospital,Hospital,hospital,,,,,4786568421,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272518,67.092516,24.916882,Azra Clinic,Clinic,clinic,,,,,5130272518,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739668168,67.052355,24.939489,Life Ken Medicos,Pharmacy,pharmacy,,,,,4739668168,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132942490,67.119629,24.828503,Madani Shifa Hospital,Hospital,hospital,,,,,5132942490,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5476033525,67.357911,24.866496,Ayesha General Hospital     عائشہ جنرل ہسپتال,Hospital,hospital,,,,,5476033525,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791722991,67.070983,24.836131,Life Care Consultant Clinics,Clinic,clinic,,,,,4791722991,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5331331027,67.060204,24.908937,Aga Khan University Hospital Medical Centre Garibabad Karachi,Clinic,clinic,,,,,5331331027,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5230413120,67.012011,24.871259,Ghusia Clinic,Clinic,clinic,,,,,5230413120,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720036,67.126252,24.913071,Kashif Dental Clinic,Clinic,clinic,,,,,5132720036,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133048476,67.210322,24.853991,Masahallah F m Medicose Wholesaler,Pharmacy,pharmacy,,,,,5133048476,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128625128,67.023035,24.912203,Masroor Hospital,Hospital,hospital,,,,,5128625128,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128368405,67.009987,24.852917,Burhani Hospital,Hospital,hospital,,,,,5128368405,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720025,67.070605,24.97232,National Medical Store,Pharmacy,pharmacy,,,,,5132720025,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128445374,67.030975,24.884283,Aziz Medicare,Clinic,clinic,,,,,5128445374,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801763901,67.037645,24.809809,Akhtar Homeo Clinic- Tauheed Commercial,Pharmacy,pharmacy,,,,,4801763901,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128335472,67.084084,24.908816,Ashfaq Memorial Hospital,Hospital,hospital,,,,,5128335472,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769518735,67.111086,24.843644,Ultra Chemical Karachi,Pharmacy,pharmacy,,,,,4769518735,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5149752222,67.057422,24.908876,CDGK Clinic,Clinic,clinic,,,,,5149752222,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5331331069,67.041739,24.898406,AKAR Hospital Jamiyat Hospital,Hospital,hospital,,,,yes,5331331069,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084590423,67.064556,24.879564,Eye Land Eye clinic,Clinic,clinic,,,,,5084590423,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1440050903,66.950192,24.882987,Medical Store,Pharmacy,pharmacy,,,,,1440050903,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769937767,67.133263,24.822226,Shahid Medical Center Korangi 1,Hospital,hospital,,,,,4769937767,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4786500680,67.079577,24.828563,Shaukat Khanum Laboratory Collection Centre,Pharmacy,pharmacy,,,,,4786500680,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144939664,67.107826,24.814665,Amna Medical & General Store,Pharmacy,pharmacy,,,,,5144939664,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4740020149,67.063059,24.965834,A To Z Clinic,Clinic,clinic,,,,,4740020149,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739782289,67.353968,24.868263,City Medical Center,Clinic,clinic,,,,,4739782289,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5285985442,67.1525,24.881838,Shifa e madina medicine mart,Pharmacy,pharmacy,,,,,5285985442,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4781359939,67.069308,24.898049,Babar Hospital,Hospital,hospital,,,,,4781359939,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5172982168,67.150821,24.884274,Shoukat Omer Memorial Hospital,Hospital,hospital,,,,,5172982168,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130968260,67.054715,24.86395,Happy Teeth The Dental Surgery,Clinic,clinic,,,,,5130968260,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5345379621,67.05169,24.892754,Falahi Medical Center,Hospital,hospital,,,,,5345379621,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769325040,67.034665,24.869719,Hashmanis Hospital,Hospital,hospital,,,,,4769325040,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737685501,67.180906,24.883027,Dr Atiq Orthopedic & Medical Centre,Hospital,hospital,,,,,4737685501,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5160729717,67.009931,24.859495,PWA Blood Bank,Blood donation,blood_donation,,,,,5160729717,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5472015322,67.14567,24.947023,Kiran Hospital,Hospital,hospital,,,,,5472015322,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5346919272,67.054091,24.894509,Muslim Khatri Medical Store,Pharmacy,pharmacy,,,,,5346919272,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801763889,67.040019,24.807863,Medi Life Clinics,Clinic,clinic,,,,,4801763889,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5306266443,67.080963,24.838628,Defence Health Care Clinic DHC,Hospital,hospital,,,,,5306266443,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5160317944,67.025142,24.910584,Kashif Medico,Pharmacy,pharmacy,,,,,5160317944,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764497924,67.185755,24.901045,Umeed-e-Seher Old Age Home,Hospital,hospital,,,,,4764497924,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4738010733,67.029612,24.921153,Abbasi Shaheed Trauma Centre,Hospital,hospital,,,,,4738010733,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4809964495,67.092332,24.924748,T.O Clinic,Hospital,hospital,,,,,4809964495,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4783147827,67.269937,24.861635,Rajput Medical Store Karan,Pharmacy,pharmacy,,,,,4783147827,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5201957129,67.049641,24.945732,Hussain Remedial,Pharmacy,pharmacy,,,,,5201957129,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5234606843,67.015835,24.932336,Arif Pharmacy,Pharmacy,pharmacy,,,,,5234606843,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737685499,67.180188,24.883305,Dr Mehdi A Manji Laboratory,Clinic,clinic,,,,,4737685499,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5100536829,66.988119,24.973551,Inayat Medical Center,Clinic,clinic,,,,,5100536829,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5269189188,67.189006,24.902051,Qurat Ul Ann Hospital,Hospital,hospital,,,,,5269189188,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5226556647,67.175219,24.885497,Malir Halt Hospital,Hospital,hospital,,,,,5226556647,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088577372,67.01631,24.940008,Faraz Homeopathic Store,Clinic,clinic,,,,,5088577372,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790118548,67.084304,24.874614,Ahmed General Hospital,Hospital,hospital,,,,,4790118548,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128565462,67.081428,24.881546,Muhammadi General & Medical Store,Pharmacy,pharmacy,,,,,5128565462,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5400798821,67.017575,24.85931,Dental store feroze,Clinic,clinic,,,,,5400798821,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5226556628,67.144163,24.888581,CAA Medical Board,Hospital,hospital,,,,,5226556628,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801932705,67.035684,24.813809,Talha Chemist,Pharmacy,pharmacy,,,,,4801932705,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5185754374,67.053937,24.947658,Dr Zia's Dental Care,Dentist,dentist,,,,,5185754374,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764379344,67.179257,24.87594,A To Z Pharma Whole Sale Chemist,Pharmacy,pharmacy,,,,,4764379344,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4809862095,67.05423,24.862574,INDUS Medical & General Store,Pharmacy,pharmacy,,,,,4809862095,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4758078473,67.107277,24.908527,Madina Medical Store,Clinic,clinic,,,,,4758078473,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144939665,67.107885,24.814404,Galaxy Madicos,Pharmacy,pharmacy,,,,,5144939665,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128085154,67.14285,24.823779,Chinot General Hospital - Korangi,Hospital,hospital,,,,,5128085154,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767647536,67.224768,24.884867,Al-Ibrahim Eye Hospital,Hospital,hospital,,,,,4767647536,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4809862083,67.048615,24.873947,Rabia Moon Institute of Neurology Trust,Hospital,hospital,,,,,4809862083,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4430621589,67.076947,24.82551,Shaukat Khanum Memorial Cancer Hospital-Phase 7,Hospital,hospital,,Shaukat Khanum,,yes,4430621589,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5308420702,67.074057,24.834153,Naseem Medical Centre,Hospital,hospital,,,,,5308420702,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028124,67.194179,24.856119,Shahid Clinic,Clinic,clinic,,,,,5133028124,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5239179995,67.045313,24.920381,Kinza Madecal Store,Pharmacy,pharmacy,,,,,5239179995,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133370630,67.186357,24.841153,Iliyas Medical Store,Pharmacy,pharmacy,,,,,5133370630,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127934396,67.051807,24.920339,Sambros Hospital,Hospital,hospital,,,,,5127934396,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772834141,67.123891,24.913683,Jaawaid Homeopathic Store,Pharmacy,pharmacy,,,,,4772834141,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5089149965,67.005069,24.938144,Al Khidmat Hospital Orangi 5,Hospital,hospital,,,,,5089149965,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5316297855,67.134268,24.928671,Madina Medical & General Store,Pharmacy,pharmacy,,,,,5316297855,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5145372004,67.047139,24.848557,EOC Buliding,Hospital,hospital,,,,,5145372004,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127967767,67.031668,24.905019,Al-Khidmat Hospital,Hospital,hospital,,,,,5127967767,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135075376,67.036854,24.883152,Fatima Bai Hospital,Hospital,hospital,,,,,5135075376,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5175883625,67.052039,24.946838,Hamdard University Dental Hospital,Hospital,hospital,,,,,5175883625,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128455358,67.02241,24.81433,Husaini Blood Bank,Clinic,clinic,,,,,5128455358,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498611,67.020778,24.916237,APWA Shirin EYE Hospital,Hospital,hospital,,,,,5130498611,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5297150742,67.1414,24.913833,M J Memorial AL Medical Center,Hospital,hospital,,,,,5297150742,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5297464001,67.065797,24.929159,Mother Care Hospital,Hospital,hospital,,,,,5297464001,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5146930690,67.071438,24.927962,Nazeer Hussain Medical Complex,Hospital,hospital,,,,,5146930690,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130272520,66.976904,24.927461,Ali Clinic,Clinic,clinic,,,,,5130272520,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088719331,67.051532,24.865954,Al Mansoor Medical Store,Pharmacy,pharmacy,,,,,5088719331,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769824154,67.134267,24.838012,Orionomni Car Clinic,Clinic,clinic,,,,,4769824154,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4758115388,67.108199,24.908473,Naveed Hijama Clinic,Clinic,clinic,,,,,4758115388,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079404680,67.031667,24.9058,Yahya Eye Hospital,Hospital,hospital,,,,,5079404680,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127942425,67.172312,24.965697,City Hospital,Hospital,hospital,,,,,5127942425,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791991077,67.011059,24.856657,Hamdard Matab,Hospital,hospital,,,,,4791991077,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4783144514,67.260931,24.836226,Saleh Shifa Hospital,Hospital,hospital,,,,,4783144514,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4772802714,67.131729,24.918242,Bin Hashim Supermarket & Pharmacy,Pharmacy,pharmacy,,,,,4772802714,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+3945273627,67.148779,24.938158,Dr Essa Clinical Laboratory,Hospital,hospital,,,,,3945273627,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5153406042,67.163926,24.828965,Asim Medical Store,Pharmacy,pharmacy,,,,,5153406042,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130517072,67.023522,24.924014,Hamza Medical Store,Pharmacy,pharmacy,,,,,5130517072,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5140969328,67.033483,24.934599,Shah Medical Center,Hospital,hospital,,,,,5140969328,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088577359,67.021602,24.946567,Saud Hospital,Hospital,hospital,,,,,5088577359,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4738085528,67.033206,24.924988,Hanif Hospital Diagnostic Centre,Hospital,hospital,,,,,4738085528,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130354340,67.182595,24.882728,Dow Lab Collection Center,Clinic,clinic,,,,,5130354340,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5297001617,67.119154,24.908493,Al-Madina Medical Center,Clinic,clinic,,,,,5297001617,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128618763,67.063263,24.925382,Adeel Welfare Clinic,Clinic,clinic,,,,,5128618763,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026892,67.078286,24.897625,NIBD Pharmacy,Pharmacy,pharmacy,,,,,5133026892,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6055033545,67.071107,24.84412,Modern Clinic,Doctor,doctor,,Dr. Amjad Hussain,,,6055033545,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4738010732,67.031058,24.92042,Midway Hospital,Hospital,hospital,,,,,4738010732,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5196077255,67.051569,24.95091,Al Burhan Chemist,Pharmacy,pharmacy,,,,,5196077255,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028135,67.183064,24.882049,Sindh Institute of Reproductive Medicine (SIRM),Hospital,hospital,,,,,5133028135,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4547647597,67.033144,24.824188,Dr. Asad,Doctor,doctors,,,,,4547647597,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737689208,67.18204,24.88264,Al Mumtaz Hospital,Hospital,hospital,,,,,4737689208,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767542676,67.197489,24.891172,Shahid Clinic,Clinic,clinic,,,,,4767542676,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5156598714,67.189714,24.842757,Landhi Medical Complex,Hospital,hospital,,,,,5156598714,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137634764,67.054002,24.964108,Dua Medicos,Pharmacy,pharmacy,,,,,5137634764,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5124205174,67.026408,24.862033,Unnamed facility,Hospital,hospital,,,,,5124205174,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026890,67.089842,24.920163,Aziz Medical Store,Pharmacy,pharmacy,,,,,5133026890,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737820029,67.21083,24.854443,Hamid Hospital,Hospital,hospital,,,,,4737820029,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026861,67.142059,25.023462,Dr. Sameer Qureshi & Associates,Clinic,clinic,,,,,5133026861,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6553107988,67.017498,24.841056,Meher Medical Centre,Clinic,clinic,,,,,6553107988,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5174094341,67.049107,24.937821,Anjuman e Ehbab Dar ul Shifa Hospital,Hospital,hospital,,,,,5174094341,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5105344543,67.261344,24.834595,Nagori Hospital,Hospital,hospital,,,,,5105344543,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028131,67.171108,24.879742,Shamsi Hospital Pharmacy,Pharmacy,pharmacy,,,,,5133028131,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5160354693,67.07515,25.020703,Burkhia Memorial Hospital,Hospital,hospital,,,,,5160354693,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5228298785,67.22729,24.832753,AL Syed Hospital & Meternity Home,Hospital,hospital,,,,,5228298785,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5311735199,66.936586,24.945755,Life Care Medicos,Pharmacy,pharmacy,,,,,5311735199,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128640415,67.065556,24.795113,"Aesthetic Life Clinics (Dental, Dermal & Cosmetic)",Clinic,clinic,,,,,5128640415,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5117329430,67.025915,24.913747,Nazimabad Medical Store,Pharmacy,pharmacy,,,,,5117329430,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4367461191,67.091487,24.92526,Taj Medical Center,Hospital,hospital,,,,,4367461191,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769518737,67.115701,24.841137,Nawan Pharma Laboratories (pvt) ltd korangi karachi,Pharmacy,pharmacy,,,,,4769518737,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4774850533,67.05051,24.869006,Akumed & Reiki Centre,Hospital,hospital,,,,,4774850533,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739674823,67.052493,24.939244,Al Shifa Medical Store,Pharmacy,pharmacy,,,,,4739674823,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5157033899,67.060605,24.93785,Dr.Jay's Remedy,Clinic,clinic,,,,,5157033899,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4774504572,67.061364,24.840649,Agha Khan Collection Services,Clinic,clinic,,,,,4774504572,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764777139,67.197714,24.896384,Imam Clinic,Clinic,clinic,,,,,4764777139,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5115427051,67.105315,24.911141,Amjad Hospital,Hospital,hospital,,,,,5115427051,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127899072,67.07282,24.934737,Ahmed Medical Center,Hospital,hospital,,,,,5127899072,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5146847952,67.065955,24.92929,Pakistan Institute of Medical Advancement,Hospital,hospital,,,,,5146847952,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088719333,67.051177,24.866106,Shahab Clinic,Clinic,clinic,,,,,5088719333,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1410491679,67.088587,24.922315,RAB Medical Centre,Hospital,hospital,,,,,1410491679,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764379357,67.177483,24.893024,Bismillah Medical Store,Pharmacy,pharmacy,,,,,4764379357,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026872,67.158374,24.886716,Matab Hamdard,Clinic,clinic,,,,,5133026872,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4770980719,67.068433,24.873463,Najum Clinic,Clinic,clinic,,,,,4770980719,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088577346,67.029636,24.945285,Nashad Medical Centre,Clinic,clinic,,,,,5088577346,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+3947043735,67.149316,24.938889,Al Rehman Hospital,Hospital,hospital,,,,,3947043735,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5329124584,67.060786,25.033522,Abdullah Abad Hospital,Hospital,hospital,,,,,5329124584,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921743,67.145736,24.883248,Essa Laboratory & Diagnostic Centre,Clinic,clinic,,,,,5130921743,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5160729715,67.011458,24.858669,OT Complex CHK,Hospital,hospital,,,,,5160729715,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5127785877,67.225712,24.833874,SESSI Hospital - Mehran Highway,Hospital,hospital,,,,,5127785877,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028132,67.033251,24.834695,Shaukat Khanum Memorial Trust,Hospital,hospital,,,,,5133028132,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130354335,67.027344,24.870879,Leo Medicos,Clinic,clinic,,,,,5130354335,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5140896530,67.055944,24.954294,Sheikh Eye & Diabetic Hospital,Hospital,hospital,,,,,5140896530,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498594,67.050238,24.843529,DSRA Medical Centre,Clinic,clinic,,,,,5130498594,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5068951561,67.357877,24.866626,Ayesha General Hospital,Hospital,hospital,,,,,5068951561,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137256193,67.102709,24.937695,Aga Khan University Hospital Medical Centre,Clinic,clinic,,,,,5137256193,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498587,67.070441,24.813548,Dar Al Shifa Medical & Dental Center,Clinic,clinic,,,,,5130498587,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5089149959,67.002098,24.939746,Hilal e Ahmer Pakistan,Hospital,hospital,,,,,5089149959,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890306,67.052533,24.862938,Dental Diagnostic Centre,Clinic,clinic,,,,,5130890306,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135145895,67.045518,24.829079,Dr. Rajesh Clinic,Clinic,clinic,,,,,5135145895,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5334959110,67.067139,24.922558,Arshi Medical & General Store,Pharmacy,pharmacy,,,,,5334959110,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954911,67.09331,24.912295,FON General Hospital & Karachi Urology Centre,Hospital,hospital,,,,,5130954911,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5078977952,67.030489,24.904135,MS Hospital,Hospital,hospital,,,,,5078977952,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801763891,67.039513,24.808386,Healing Hands,Clinic,clinic,,,,,4801763891,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6094592072,67.071693,24.846654,sabz sitara,Clinic,clinic,,,,,6094592072,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5312107831,66.946616,24.953806,Life care General Store,Pharmacy,pharmacy,,,,,5312107831,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4793640281,67.070639,24.877407,Bantva Anis Hospital,Hospital,hospital,,,,,4793640281,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130955221,67.101272,24.938638,JS Bank,Hospital,hospital,,,,,5130955221,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130993639,67.02818,24.899727,Masomeen Medical,Clinic,clinic,,,,,5130993639,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128203734,67.022352,24.81511,Galaxy Pharma,Clinic,clinic,,,,,5128203734,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5023622716,67.056707,24.847583,Basic Health Unit,Doctor,doctor,,,,,5023622716,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+2671409823,67.044713,24.923928,Ziauddin Hospital North Nazimabad,Hospital,hospital,,,,,2671409823,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5069426385,67.129347,25.01195,Pharmacy AB,Pharmacy,pharmacy,,,,,5069426385,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5331331046,67.024164,24.898941,Feroza Clinic,Clinic,clinic,,,,,5331331046,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143300443,67.044281,24.871916,Aga Khan Laboratory,Clinic,clinic,,,,,5143300443,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734266966,67.081119,24.891488,Time Medico,Pharmacy,pharmacy,,,,,4734266966,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4758078463,67.106765,24.909454,Ali Clinic,Clinic,clinic,,,,,4758078463,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682836,67.063033,24.882262,Asian Hair Transplant & Skin Care Center Karachi,Hospital,hospital,,,,,5130682836,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4742815624,67.018049,24.811436,Medicine Brand Pharmacy,Pharmacy,pharmacy,,,,,4742815624,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720042,66.958015,24.965563,Khyber Institute of Health Sciences and Technology,Hospital,hospital,,,,,5132720042,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5158915980,67.001223,24.952452,Khawaja Garib Nawz Dispensary,Clinic,clinic,,,,,5158915980,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5318467706,67.079313,24.942171,Zain Medicos Ancholi,Pharmacy,pharmacy,,,,,5318467706,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128515423,67.038338,24.931137,Burhani Blood Bank,Clinic,clinic,,,,,5128515423,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6547203447,67.017854,24.841597,Noori Roohani Shafakhana,Alternative,alternative,,,,,6547203447,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527586,67.177177,24.835029,Safia Abedin Medical Centre,Pharmacy,pharmacy,,,,,5133527586,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682847,67.195672,24.856537,Azizullah Medical & General Store,Clinic,clinic,,,,,5130682847,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135309365,67.176198,24.825091,Rais Clinic Dr Toqeer Ahmed,Clinic,clinic,,,,,5135309365,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6094726699,67.072253,24.846828,Noor Clinic,Clinic,clinic,,,,,6094726699,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769800475,67.12016,24.814677,Sheikh Muhammad Saeed Memorial Hospital,Hospital,hospital,,,,,4769800475,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5157387576,67.014419,24.939126,fatmah hospital,Hospital,hospital,,,,,5157387576,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4740117260,67.052981,24.949519,Mumtaz Hospital,Hospital,hospital,,,,,4740117260,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739617892,67.053158,24.946418,Alvi's Skin and Laser Complex (Dr Khurshid H Alvi),Hospital,hospital,,,,,4739617892,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5142741147,67.118591,24.922574,Karachi Clinic & Maternity Home,Hospital,hospital,,,,,5142741147,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764575653,67.192998,24.901642,Al-Shifa Homoeo Drug Centre,Pharmacy,pharmacy,,,,,4764575653,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5145310112,67.044096,24.86971,Dr Sabri Clinic,Clinic,clinic,,,,,5145310112,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130993637,67.077805,24.924582,Ilyas Clinic,Clinic,clinic,,,,,5130993637,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773373082,67.072687,24.884021,Health Vision Hospital,Hospital,hospital,,,,,4773373082,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4809964839,67.101781,24.931696,Gulshan Medical Centre,Hospital,hospital,Gulshan e Iqbal Block 7,,,,4809964839,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921744,67.123855,24.91127,Essa Laboratory & Diagnostic Centre,Clinic,clinic,,,,,5130921744,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741344830,67.047322,24.943449,Imam Clinic,Hospital,hospital,,,,,4741344830,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026853,67.021271,24.81403,Laser Inn Aesthetic Hair Transplant Karachi,Clinic,clinic,,,,,5133026853,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4775014532,67.053552,24.885138,Fawad Eye Hospital,Hospital,hospital,,,,,4775014532,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4358273895,67.024503,24.861008,Skin Hospital,Hospital,hospital,,,,,4358273895,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084385867,67.062116,24.918157,Memon Medical Complex,Hospital,hospital,,,,,5084385867,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5171197617,67.083144,24.908336,Al-Mustafa Medical Centre,Hospital,hospital,,,,,5171197617,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790169084,67.049057,24.814024,Neuropsychology Center Pakistan,Hospital,hospital,,,,,4790169084,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773096210,67.107318,24.926015,The Modern Hospital,Hospital,hospital,Gulshan e Iqbal Block 7,,,,4773096210,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133425771,67.182749,24.838713,Fouzia Clinic,Clinic,clinic,,,,,5133425771,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5131024096,66.995503,24.923553,Jamal Medical Store,Clinic,clinic,,,,,5131024096,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128618760,67.032544,24.87589,Abbas Clinic,Clinic,clinic,,,,,5128618760,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790030988,67.081948,24.882339,Tahir Medical Centre,Clinic,clinic,,,,,4790030988,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4790094024,67.076156,24.886432,Jamal Noor Hospital,Hospital,hospital,,,,,4790094024,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143101207,67.03526,24.868672,Shaukat Medical Store,Pharmacy,pharmacy,,,,,5143101207,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5158915979,67.000643,24.952445,Haziq Medicos,Pharmacy,pharmacy,,,,,5158915979,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720047,66.979646,24.868239,MSF Clinic,Clinic,clinic,,,,,5132720047,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5285985426,67.150943,24.882335,Nishat Medical,Pharmacy,pharmacy,,,,,5285985426,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5090984172,67.058619,24.870951,Shahid Clinic,Clinic,clinic,,,,,5090984172,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954909,67.064592,24.92588,Fidai Hospital,Hospital,hospital,,,,,5130954909,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5089149962,67.005245,24.938882,Life Care Medical Center,Hospital,hospital,,,,,5089149962,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5117307662,67.02867,24.913104,Hamdard Hospital Naimat Begum Mother and Child Care Unit,Hospital,hospital,,,,,5117307662,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198884,67.082418,24.907693,DOW Lab Test.,Clinic,clinic,,,,,5130198884,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4762679213,67.077693,24.930442,Ahmed Medical & General Store,Pharmacy,pharmacy,,,,,4762679213,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5174151164,67.053557,24.937999,Asif Dental Clinic,Dentist,dentist,,,,,5174151164,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147829623,67.063124,24.901706,Sina Old Sabzi Mandi Clinic,Clinic,clinic,,,,,5147829623,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5297630132,67.036285,24.827527,Behtar Zindagi Center - Minerva,Hospital,hospital,,,,,5297630132,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5335088906,67.059405,24.940113,Huda Homeo Clinic 3.0·2 reviews,Clinic,clinic,,,,,5335088906,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4739587133,67.049228,24.94168,MediComplex Hospital,Hospital,hospital,,,,,4739587133,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4665108303,67.175442,24.883167,Ather Medical store,Pharmacy,pharmacy,,,,,4665108303,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5079337544,67.101893,25.039834,Family Clinics,Hospital,hospital,,,,,5079337544,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5098122942,66.995083,24.96017,New Dew Pharma,Pharmacy,pharmacy,,,,,5098122942,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128618762,67.083081,24.885269,Adamjee Eye Hospital,Hospital,hospital,,,,,5128618762,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954920,67.101062,24.93888,Rajput General Hospital,Hospital,hospital,,,,,5130954920,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5330850917,67.066247,24.955477,Imran Medical Store,Pharmacy,pharmacy,,,,,5330850917,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4788425060,67.044398,24.796775,Marvi Medical & Super Store,Pharmacy,pharmacy,,,,,4788425060,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4741865102,67.128273,25.01542,Maymar Medicos,Pharmacy,pharmacy,,,,,4741865102,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128618761,67.148735,24.943428,Poly Clinic /  Abdali Poly Clinic;Poly Clinic,Clinic,clinic,,,,,5128618761,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791723431,67.067718,24.832567,Long Life Pharmacy,Pharmacy,pharmacy,,,,,4791723431,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682837,67.070333,24.880596,Asif Eye Hospital,Clinic,clinic,,,,,5130682837,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455641,67.197632,24.902455,Pakistan Health Care Trust Hospital,Hospital,hospital,,,,,4767455641,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128396158,67.034098,24.878019,Fatimiyah Hospital,Hospital,hospital,,,,,5128396158,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4724110186,67.031291,24.816785,Parklane Pharmacy,Pharmacy,pharmacy,,,,,4724110186,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769985118,67.135749,24.850001,Marvi Pharma,Pharmacy,pharmacy,,,,,4769985118,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143276359,67.0763,24.837128,South Side General Hospital,Hospital,hospital,,,,,5143276359,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5117205306,67.030451,24.918509,Tabba Heart Institute  Laboratory Collection Unit,Pharmacy,pharmacy,,,,,5117205306,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682868,67.141246,24.823497,Kashaf Dental Clinic,Clinic,clinic,,,,,5130682868,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769985102,67.137241,24.857567,Star Charitable Clinic,Clinic,clinic,,,,,4769985102,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026855,67.03253,24.826253,Laser Vision Centre,Clinic,clinic,,,,,5133026855,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5232539143,66.982458,24.867722,Unnamed facility,Hospital,hospital,,,,,5232539143,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5135016125,67.06309,24.841598,Mustafa Hospital,Hospital,hospital,,,,,5135016125,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5306005133,67.003252,24.840638,Sick Bay NORE-I,Hospital,hospital,,,,,5306005133,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109338727,67.047302,24.815276,KMC Gizri Hospital,Hospital,hospital,,,,,5109338727,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682854,67.098752,24.94461,Dr Nargis Hospital,Hospital,hospital,,,,,5130682854,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028142,67.055935,24.863695,Smile Savers,Clinic,clinic,,,,,5133028142,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5333236745,67.150948,24.914269,Isolation Hospital Airport Karachi,Hospital,hospital,,,,,5333236745,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5084174888,67.06308,24.960989,Qureshi Health Center,Clinic,clinic,,,,,5084174888,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764643850,67.186089,24.908255,Usman Medicose & General Store,Pharmacy,pharmacy,,,,,4764643850,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5092152522,66.999946,24.900946,Epla Laboratories,Pharmacy,pharmacy,,,,,5092152522,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109580863,67.080017,24.940531,Al-Murtaza Homeopathic,Clinic,clinic,,,,,5109580863,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791991080,67.011567,24.856113,Mektum House,Pharmacy,pharmacy,,,,,4791991080,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5269335956,67.189517,24.899544,Ajmeri Herbal Cancer Dawakhana & Research Centre,Clinic,clinic,,,,,5269335956,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128654396,67.033534,24.915621,Ahmed Dental Clinic,Clinic,clinic,,,,,5128654396,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026914,67.019014,24.813224,Dr. Jehangir Shah,Clinic,clinic,,,,,5133026914,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028136,67.18595,24.880454,The Children Hospital,Hospital,hospital,,,,,5133028136,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128018440,67.027617,24.867126,OMI Hospital,Hospital,hospital,,,,,5128018440,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102880,67.082227,24.983091,Zehra Clinic,Clinic,clinic,,,,,5133102880,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128618759,67.050466,24.828498,Khans Dental Clinic,Clinic,clinic,,,,,5128618759,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5145371998,67.043931,24.852393,Psychiatry ward 20,Hospital,hospital,,,,,5145371998,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4805954574,67.041525,24.816203,Step In Pharmacy,Pharmacy,pharmacy,,,,,4805954574,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734023579,67.030985,24.892719,Wazeer Patti Wala,Clinic,clinic,,,,,4734023579,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4738135538,67.034236,24.928402,Lab Test Clinical Laboratory,Clinic,clinic,,,,,4738135538,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767455692,67.211259,24.903027,Government Saudabad Hospital,Hospital,hospital,,,,,4767455692,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4758017032,67.105982,24.90067,Kashif Iqbal Thalassemia Care Center,Hospital,hospital,,,,,4758017032,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+6536942423,67.020468,24.844311,Murshid Laboratory,Laboratory,laboratory,,,,,6536942423,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128018441,67.023918,24.866621,ISM Hospital,Hospital,hospital,,,,,5128018441,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5157326482,66.99371,24.945585,Mehrun Nisa Medical Center,Pharmacy,pharmacy,,,,,5157326482,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028137,67.037131,24.82417,Lasersoft-the Skin Clinic,Clinic,clinic,,,,,5133028137,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130353820,67.104591,24.818412,Umeed Maternity Home,Clinic,clinic,,,,,5130353820,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130955223,67.101599,24.938371,Dr. Essa Laboratory & Diagnostic Centre,Clinic,clinic,,,,,5130955223,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4788412646,67.06607,24.820453,Tayyab Medical & General Store,Pharmacy,pharmacy,,,,,4788412646,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737689209,67.182168,24.88251,Nehal Hospital,Hospital,hospital,,,,,4737689209,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5119821451,67.017934,24.872769,Bagh E Halar General Hospital,Hospital,hospital,,,,,5119821451,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130682853,67.062537,24.861754,Bakhsh Clinic,Clinic,clinic,,,,,5130682853,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5226556643,67.167922,24.884641,Star General Hospital,Hospital,hospital,,,,,5226556643,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4737664783,67.175099,24.885141,FOMG Hospital,Hospital,hospital,,,,,4737664783,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028128,67.050981,24.955056,Shahrukh Hospital,Hospital,hospital,,,,,5133028128,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5109183421,67.011409,24.859717,Pharmacy,Pharmacy,pharmacy,,,,,5109183421,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4801407740,67.032921,24.83435,Sindh Chemist,Pharmacy,pharmacy,,,,,4801407740,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4779033036,67.063117,24.888559,The Dow Clinical & Research Laboratory,Clinic,clinic,,,,,4779033036,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130080842,67.000599,24.913084,Ahsan Clinic,Clinic,clinic,,,,,5130080842,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5144555883,67.051835,24.939111,Nexus Medicos,Pharmacy,pharmacy,,,,,5144555883,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130968256,67.0967,24.918896,Nadeem Medical Centre,Hospital,hospital,,,,,5130968256,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921750,67.183033,24.883296,Fatima Eye Hospital,Hospital,hospital,,,,,5130921750,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133026877,67.034629,24.821584,Medilink,Clinic,clinic,,,,,5133026877,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4770056046,67.062069,24.807528,Pharmacy Point,Pharmacy,pharmacy,,,,,4770056046,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+2671312033,67.064683,24.926584,Agha Khan Hospital for Women,Hospital,hospital,,,,,2671312033,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137634770,67.04953,24.959493,Husaini Blood Bank,Blood donation,blood_donation,,,,,5137634770,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5085898847,67.119405,24.918357,SHALIMAR MEDICAL STORE,Pharmacy,pharmacy,,,,,5085898847,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5143101215,67.034253,24.866204,Karachi Medical Store,Pharmacy,pharmacy,,,,,5143101215,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5131024095,66.995581,24.923718,IMTIAZ EYE CARE,Clinic,clinic,,,,,5131024095,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4496336860,67.092215,24.922521,Akhtar Eye Hospital,Hospital,hospital,,,,,4496336860,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1410491682,67.088304,24.921632,Samdani Hospital,Hospital,hospital,,,,,1410491682,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4773268349,67.061993,24.88048,Fatima Dental Hospital,Hospital,hospital,,,,,4773268349,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128213133,67.081441,24.901814,Sunny Medico,Pharmacy,pharmacy,,,,,5128213133,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767920549,67.145558,24.88391,Colony Medical Store,Pharmacy,pharmacy,,,,,4767920549,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4734023561,67.0533,24.886801,Usmania Hospital,Hospital,hospital,,,,yes,4734023561,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5158915945,67.009789,24.944604,Akhtar Enterprises,Pharmacy,pharmacy,,,,,5158915945,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5239180001,67.031038,24.920653,City Dental Hospital Baqai,Hospital,hospital,,,,,5239180001,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4810006275,67.090804,24.923563,Omair Sana Foundation,Hospital,hospital,,,,,4810006275,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132720048,67.056146,24.860747,Rahat Kada Hospital,Hospital,hospital,,,,,5132720048,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130954915,67.080283,24.970663,Godhra Muslim Medical Centre & Charitable Hospital,Hospital,hospital,,,,,5130954915,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890298,67.074133,24.891114,Agha Khan Hospital,Hospital,hospital,,,,,5130890298,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4764692609,67.06615,24.987075,M.I. General Store,Pharmacy,pharmacy,,,,,4764692609,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890300,67.064955,24.80325,Aesthetic Shape,Clinic,clinic,,,,,5130890300,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5228298784,67.227592,24.832727,Nimrah Hospital,Hospital,hospital,,,,,5228298784,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130198876,67.084742,24.883274,Al Fatima Clinic & Maternity Home,Clinic,clinic,,,,,5130198876,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128085123,67.146678,24.821851,LRBT Eye Hospital - Korangi,Hospital,hospital,,,,,5128085123,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5225940417,67.034457,24.925193,Naeem Medical Store,Pharmacy,pharmacy,,,,,5225940417,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4742815626,67.017698,24.811572,Drug Mart Pharmacy UK,Pharmacy,pharmacy,,,,,4742815626,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5128441357,67.032885,24.833828,"Jps (CT Scan, MRI & MRA) Diagnostic Centre",Hospital,hospital,,,,,5128441357,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5117307661,67.028592,24.912739,Hamdard Foundation Pakistan,Clinic,clinic,,,,,5117307661,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5124275220,67.032042,24.929221,Sindh Rangers Hospital,Hospital,hospital,,,,,5124275220,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4793640255,67.055024,24.884175,HIJAMA CLINIC,Clinic,clinic,,,,,4793640255,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4775013572,67.0645,24.877492,Role Model Hijama Centre,Hospital,hospital,,,,,4775013572,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4398203517,67.068774,24.890119,Liaquat National Hospital,Hospital,hospital,,,,yes,4398203517,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5325320604,67.093351,24.88079,PNS Rahat Hospital - Karsaz,Hospital,hospital,,,,yes,5325320604,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133028147,67.06022,24.931833,Taj Eye Hospital,Clinic,clinic,,,,,5133028147,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498592,67.003072,24.94512,Al Shifa Medical Center,Clinic,clinic,,,,,5130498592,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4788568341,67.038273,24.801123,Dr Dental Surgery,Dentist,dentist,,,,,4788568341,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130921749,67.021813,24.913414,Farzana Clinic,Hospital,hospital,,,,,5130921749,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137608471,67.066812,24.950073,Qasmi Dawakhana,Clinic,clinic,,,,,5137608471,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1428217425,66.945213,24.88101,Family Wing,Hospital,hospital,,,,,1428217425,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498612,67.020588,24.916922,NOOR BANO EYE HSOPITAL,Hospital,hospital,,,,,5130498612,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5287119643,67.177249,24.876485,Zia Clinic,Clinic,clinic,,,,,5287119643,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5350757689,67.066932,24.876245,Karachi Laboratory,Clinic,clinic,,,,,5350757689,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130354341,67.162741,24.876406,Al Nas Hospital,Hospital,hospital,,,,no,5130354341,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+1709636101,67.146924,24.94542,Memon Medical hospital,Hospital,hospital,,,,yes,1709636101,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5090984173,67.058876,24.871458,Khalid Medical Store,Pharmacy,pharmacy,,,,,5090984173,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4740020139,67.063072,24.972758,North Karachi Hhospital,Hospital,hospital,,,,,4740020139,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4809862109,67.056087,24.86444,Urology Clinic,Clinic,clinic,,,,,4809862109,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4769987621,67.140531,24.851336,Maria Medical Store,Pharmacy,pharmacy,,,,,4769987621,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4783147838,67.252678,24.847595,SESSI Landhi Kidney Center,Hospital,hospital,,,,,4783147838,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132578829,67.072172,24.922975,Dr. Javed Homeo Clinic,Clinic,clinic,,,,,5132578829,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5969248156,67.028578,24.863797,Dr Abdusattar Mohammad Hashim,Clinic,clinic,,,,,5969248156,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133527609,67.172,24.831274,Abbasi Clinic,Clinic,clinic,,,,,5133527609,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5137562844,67.098806,24.941263,Adam Medical Store,Pharmacy,pharmacy,,,,,5137562844,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4791991078,67.011351,24.856478,Mehar Impex,Pharmacy,pharmacy,,,,,4791991078,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5132712719,67.082399,24.873529,Kchs Medical centre,Hospital,hospital,,,,,5132712719,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130498606,67.049744,24.815113,Dr Anwar Clinic,Clinic,clinic,,,,,5130498606,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133102877,67.073586,24.93908,Yasin Eye Hospital,Hospital,hospital,,,,,5133102877,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5088719332,67.051258,24.865954,Simbaba Medical Store,Pharmacy,pharmacy,,,,,5088719332,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5133054283,67.062434,24.859361,AL Rasheed Eye Hospital,Hospital,hospital,,,,,5133054283,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4767596788,67.192534,24.883301,Naseer Medical,Pharmacy,pharmacy,,,,,4767596788,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130968259,67.204032,24.927246,Hajra Medical Centre,Hospital,hospital,,,,,5130968259,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+2552024424,67.355451,24.870042,Al Hadeed Medical Center,Hospital,hospital,,,,yes,2552024424,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+4758078472,67.107744,24.908823,Mahtab Clinic,Clinic,clinic,,,,,4758078472,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5130890314,67.050066,24.814697,Dr. Mughals Health Centre,Clinic,clinic,,,,,5130890314,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5147519463,67.063478,24.881415,Elegance Hair Transplant Karachi,Clinic,clinic,,,,,5147519463,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry
+5957901130,67.068955,24.847555,Mevi Clinic & Vacination Centre,Clinic,clinic,,Sindh Government,,,5957901130,https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry

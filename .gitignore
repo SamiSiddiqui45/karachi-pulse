@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.tools/
+.venv/
+*.tsbuildinfo
+__pycache__/
+.pytest_cache/
+data-pipeline/data/raw/*
+!data-pipeline/data/raw/.gitkeep
+*.log
+playwright-report/
+test-results/

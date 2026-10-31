@@ -1,0 +1,34 @@
+import { test,expect } from '@playwright/test';
+test('real dataset, map interactions, filters, details, analytics and responsive layout',async({page},testInfo)=>{
+  const errors:string[]=[];page.on('pageerror',error=>errors.push(error.message));
+  await page.emulateMedia({reducedMotion:'reduce'});
+  await page.goto('/');
+  await expect(page.getByText('1,004',{exact:true})).toBeVisible();
+  await expect(page.locator('.maplibregl-canvas')).toBeVisible();
+  if(process.env.PULSE_AWS){
+    await expect(page.getByText('DATA EXPLORER MODE')).toHaveCount(0);
+    await expect(page.locator('.map-error')).toHaveCount(0);
+  }else await expect(page.getByText('DATA EXPLORER MODE')).toBeVisible();
+  await expect(page.locator('.cluster-count').first()).toBeVisible({timeout:30000});
+  await page.locator('.cluster-count').first().click();
+  await page.getByRole('button',{name:'Reset map',exact:true}).click();
+  await page.getByLabel('Search facilities').fill('Karim Bux');
+  await expect(page.locator('.facility-row')).toHaveCount(1);
+  await page.locator('.facility-row').click();
+  await expect(page.getByLabel('Facility details')).toBeVisible();
+  await page.getByLabel('Close details').click();
+  await page.getByRole('button',{name:'Reset',exact:true}).click();
+  await page.getByRole('button',{name:'Heatmap',exact:true}).click();
+  await expect(page.getByText('Mapped-record density',{exact:true})).toBeVisible();
+  await page.getByRole('checkbox',{name:/Hospital/}).check();
+  await expect(page.getByText('467 of 1004 facilities displayed')).toBeVisible();
+  await expect(page.locator('body')).toHaveJSProperty('scrollWidth',await page.evaluate(()=>window.innerWidth));
+  await page.getByRole('button',{name:'Reset',exact:true}).click();
+  await page.getByRole('button',{name:'Fit facilities',exact:true}).click();
+  await page.screenshot({path:`../docs/screenshot-${testInfo.project.name}.png`,fullPage:true});
+  await page.getByRole('button',{name:'Analytics',exact:true}).click();
+  await expect(page.getByText('Geographic distribution',{exact:true})).toBeVisible();
+  await page.getByRole('button',{name:'Dataset',exact:true}).click();
+  await expect(page.getByText('Every row accounted for')).toBeVisible();
+  expect(errors).toEqual([]);
+});

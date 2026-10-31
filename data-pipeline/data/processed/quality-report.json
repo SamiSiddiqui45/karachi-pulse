@@ -1,0 +1,73 @@
+{
+  "extracted": 2997,
+  "accepted": 1004,
+  "rejected": 1993,
+  "rejection_reasons": {
+    "outside_karachi_boundary": 1634,
+    "invalid_or_missing_coordinates": 359
+  },
+  "columns": [
+    "name",
+    "facility_type",
+    "amenity",
+    "speciality",
+    "operator",
+    "operator_type",
+    "beds",
+    "emergency",
+    "address",
+    "operational_status",
+    "longitude",
+    "latitude",
+    "osm_id",
+    "source"
+  ],
+  "missing_values": {
+    "name": 125,
+    "facility_type": 0,
+    "amenity": 46,
+    "speciality": 2975,
+    "operator": 2941,
+    "operator_type": 2997,
+    "beds": 2997,
+    "emergency": 2858,
+    "address": 2991,
+    "operational_status": 2997,
+    "longitude": 359,
+    "latitude": 359,
+    "osm_id": 0,
+    "source": 2984
+  },
+  "categories": {
+    "Hospital": 467,
+    "Clinic": 305,
+    "Pharmacy": 202,
+    "Dentist": 11,
+    "Physiotherapist": 1,
+    "Alternative": 5,
+    "Blood donation": 4,
+    "Doctor": 6,
+    "Laboratory": 3
+  },
+  "co_located_extra_records_retained": 0,
+  "unnamed_accepted": 5,
+  "boundary": "geoBoundaries Karachi ADM2, represented year 2019; not current district subdivisions",
+  "coordinate_extent": [
+    66.913061,
+    24.792673,
+    67.372562,
+    25.041028
+  ],
+  "provenance": {
+    "health_facilities.csv": {
+      "url": "https://huggingface.co/datasets/opendoc-pakistan/pakistan_health_facility_registry/resolve/ebd7bf77bc10243be1bf8914217aea4f11a2ab62/data/processed/health_facilities.csv",
+      "sha256": "22f3c81a6324dde140a4fb5ec2f120a9ccca36f1041c58a8614bf15caf60c8e4",
+      "retrieved_at": "2026-10-31T09:24:33.776701+00:00"
+    },
+    "pakistan-adm2.geojson": {
+      "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM2/geoBoundaries-PAK-ADM2.geojson",
+      "sha256": "108eeaa75a6de678f022e0b6d8fd8ab4c93e4b4d1a9c6a28995afe7c0731182c",
+      "retrieved_at": "2026-10-31T09:24:38.073129+00:00"
+    }
+  }
+}
